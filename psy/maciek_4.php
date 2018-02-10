@@ -16,6 +16,38 @@ print ("
   </tr>
    <td align=\"center\" colspan=7><font size=6><b>2017</b></font></td>
   </tr>
+   <td>26.10.2017</td>
+   <td>Plovdiv (BUL)</td>
+   <td>Międzynarodowa</td>
+   <td>championów</td>
+   <td>Mile Aleksoski (MK)</td>
+   <td>doskonała</td>
+   <td>I lokata, CAC, CACIB, BOB</td>
+  </tr>
+   <td>6.10.2017</td>
+   <td>Kiszyniów (MD)</td>
+   <td>Międzynarodowa</td>
+   <td>championów</td>
+   <td>Otokar Vondrous (CZ)</td>
+   <td>doskonała</td>
+   <td>I lokata, CAC, CACIB, BOB</td>
+  </tr>
+   <td>25.06.2017</td>
+   <td>Kołobrzeg</td>
+   <td>Międzynarodowa</td>
+   <td>championów</td>
+   <td>Magdalena Świętoń</td>
+   <td>doskonała</td>
+   <td>I lokata, CWC, Best Dog, CACIB, BOB</td>
+  </tr>
+   <td>3.06.2017</td>
+   <td>Tallin (EST)</td>
+   <td>klubowa</td>
+   <td>otwarta</td>
+   <td>William Henderson (AUS)</td>
+   <td>doskonała</td>
+   <td>I lokata, CWC, CACIB, BOB (B&amp;T), 3 BIS</td>
+  </tr>
    <td>08.01.2017</td>
    <td>Gdańsk (oddz. Gdynia)</td>
    <td>krajowa</td>

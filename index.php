@@ -305,8 +305,8 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<a href=\"./index.php?ver=1&dog=7&opt=0\"><font color=\"black\">
-			<b>&nbsp;Szczenięta</b></font></a>
+			<a href=\"./index.php?ver=1&dog=7&opt=0\"><font color=\"yellow\">
+			<b>&nbsp;Szczenięta</b></font>&nbsp;<img src=\"./new.png\"></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -430,7 +430,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Champ. PL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>ur: 28.06.2014<br><br>
+  <center><b>Champ. PL, BUL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>ur: 28.06.2014<br><br>
 	Hodowca:<br>Ewa &amp; Witold Rudzinscy</center>
 		<br /><hr />
 	</div>
@@ -731,8 +731,8 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<a href=\"./index.php?ver=2&dog=7&opt=0\"><font color=\"black\">
-			<b>&nbsp;Welpen</b></font></a>
+			<a href=\"./index.php?ver=2&dog=7&opt=0\"><font color=\"yellow\">
+			<b>&nbsp;Welpen</b></font>&nbsp;<img src=\"./new.png\"></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -856,7 +856,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Champ. PL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>geb: 28.06.2014<br><br>
+  <center><b>Champ. PL, BUL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>geb: 28.06.2014<br><br>
 	Züchter:<br>Ewa &amp; Witold Rudzinski</center>
 		<br /><hr />
 	</div>
@@ -1147,8 +1147,8 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<a href=\"./index.php?ver=3&dog=7&opt=0\"><font color=\"black\">
-			<b>&nbsp;Puppies</b></font></a>
+			<a href=\"./index.php?ver=3&dog=7&opt=0\"><font color=\"yellow\">
+			<b>&nbsp;Puppies</b></font>&nbsp;<img src=\"./new.png\"></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -1272,7 +1272,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Champ. PL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>born: 28.06.2014<br><br>
+  <center><b>Champ. PL, BUL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>born: 28.06.2014<br><br>
 	Breeeder:<br>Ewa &amp; Witold Rudzinscy</center>
 		<br /><hr />
 	</div>

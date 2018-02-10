@@ -37,35 +37,35 @@ print ("
    <td><b>Une Noizeth de Sophline</b></td>
   </tr>    
   <tr>
-   <td rowspan=\"8\"><b>Unique Pomeranian Beauties</b></td>
-   <td rowspan=\"4\"><b>Acajou de Passeriphane</b></td>
-   <td rowspan=\"2\"><b>Schweppes de Passeriphane</b></td>
-   <td><b>Pongo des Marliviers</b></td>
+   <td rowspan=\"8\"><b>Scarlett O'Hara Pomeranian Beauties</b></td>
+   <td rowspan=\"4\"><b>Royal Hero's You Are So Beautiful</b></td>
+   <td rowspan=\"2\"><b>Royal Hero's Never Ending Story</b></td>
+   <td><b>Royal Hero's Kenny Rogers</b></td>
   </tr>
   <tr>
-   <td><b>Melrose de Passeriphane</b></td>
+   <td><b>Angel's Pride Secret-Love Girl</b></td>
   </tr>
   <tr>
-   <td rowspan=\"2\"><b>Sweet Dreams du Clos de l'Arpège</b></td>
-   <td><b>Number One de Passeriphane</b></td>
+   <td rowspan=\"2\"><b>Royal Hero's One Moment in Time</b></td>
+   <td><b>Loranka's Starstealer</b></td>
   </tr>
   <tr>
-   <td><b>Ocarina of Woodville</b></td>
+   <td><b>Royal Hero's Follow my Red Dreamgirl</b></td>
   </tr>
   <tr>
-   <td rowspan=\"4\"><b>Rumba Pomeranian Beauties</b></td>
-   <td rowspan=\"2\"><b>Dark Cristal de la Geode</b></td>
-   <td><b>Harana Marley</b></td>
+   <td rowspan=\"4\"><b>Cassandra vom Paulinenhof</b></td>
+   <td rowspan=\"2\"><b>Harana Starmann</b></td>
+   <td><b>Harana Jazzie Jeff</b></td>
   </tr>
   <tr>
-   <td><b>Becassine de Sophline</b></td>
+   <td><b>Harana Nina Somone</b></td>
   </tr>
   <tr>
-   <td rowspan=\"2\"><b>Cassandra vom Paulinenhof</b></td>
-   <td><b>Harana Starmann</b></td>
+   <td rowspan=\"2\"><b>Ustja vom Paulinenhof</b></td>
+   <td><b>Crown Hunter Zarino</b></td>
   </tr>
   <tr>
-   <td><b>Ustja vom Paulinenhof</b></td>
+   <td><b>Damina the Roottis</b></td>
   </tr>
   </tbody>
  </table>

@@ -15,6 +15,32 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>10.02.18</b> - Rozpoczął się już nowy sezon wystawowy, a my nie podzieliliśmy się jeszcze z Wami  wydarzeniami z drugiej połowy 2017 roku... Już to nadrabiamy!<br /><br />
+
+Rok 2017 był dla naszych piesków bardzo owocny i pełen sukcesów na ringach wystawowych. Nasz TINTIN Pomeranian Beauties uzyskał tytuł Championa Międzynarodowego! LITTLE MEC \"Maciek\" de la Geode zdobył tytuł Championa Polski oraz na wystawie klubowej cavalierów w Talinie (Estonia, wśród 186 cavalierów), tytuł Najlepszego w Rasie Psa black&amp;tan, 3. miejsce w BIS (Najlepszy Pies Wystawy) oraz tytuł Championa Estonii! Spełnił także wszystkie warunki dla uzyskania tytułu Championa Międzynarodowego.<br /><br />
+
+Nasza rubinowa dziewuszka TINY DANCER Pomeranian Beauties uzyskała w 2017 roku tytuł Championa Polski oraz Championa Bułgarii. A nasz ukochany weteran DARK CRISTAL \"Darek\" de la Geode zdobył tytuł Championa Polski Weteranów :-)<br /><br />
+
+Nie ominęło nas jednak i bardzo smutne przeżycie... Po dwóch latach walki i rehabilitacji odeszła Rumba... nasz Rumbaczek. Po prostu zasnęła... Może była już tą walką zmęczona?<br /><br />
+
+Na koniec mamy jednak kolejne radosne wieści! 6 stycznia 2018 roku SCARLET O'HARA \"Clara\" i LITTLE MEC \"Maciek\" de la Geode zostali rodzicami cudownych \"pięcioraczków\" – dwóch chłopców (black&amp;tan i ruby) oraz trzech dziewczynek (2 black&amp;tan i 1 ruby). Maluchy rosną i rozwijają się wspaniale, a Clarunia, jak i przy poprzednich  malutkach, spisuje się cudownie jako mama.<br /><br />
+
+<center><img src=\"./c2puppies0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./c2puppies1.jpg\" alt=\"\"></center><br />
+
+Jak zawsze zapraszamy Was do naszego \"Albumu rodzinnego\" na nową porcję zdjęć!<br /><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>15.05.17</b> - Dzisiaj nasza mała Anne of Green Gables \"Ana... Ania... Anulka\" Pomeranian Beauties przeprowadziła się do swojej \"nowej\" Rodzinki - Beaty, Łukasza, Tymka, Emilki i Winnie Cooper Pomeranian Beauties! Samej radości i szczęścia życzymy Wam wszystkim! :-)<br /><br />
 
 <center><img src=\"./ana4.jpg\" alt=\"\"></center>

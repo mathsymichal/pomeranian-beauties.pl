@@ -14,6 +14,42 @@ print ("
    <td><b>Ocena</b></td>
    <td><b>Tytuły</b></td>
   </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2018</b></font></td>
+  </tr>
+   <td>3.02.2018</td>
+   <td>Bydgoszcz</td>
+   <td>międzynarodowa</td>
+   <td>championów</td>
+   <td>Zofia Konderla</td>
+   <td>doskonała</td>
+   <td>I lokata, CWC, CACIB</td>
+  </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2017</b></font></td>
+  </tr>
+   <td>19.11.2017</td>
+   <td>Plovdiv (BUL)</td>
+   <td>międzynarodowa</td>
+   <td>championów</td>
+   <td>Dragan Janjic (SRB)</td>
+   <td>doskonała</td>
+   <td>I lokata, CAC, CACIB, BOB</td>
+  </tr>
+   <td>17.11.2017</td>
+   <td>Plovdiv (BUL)</td>
+   <td>międzynarodowa</td>
+   <td>championów</td>
+   <td>Galina Todorova (BUL)</td>
+   <td>doskonała</td>
+   <td>I lokata, CAC, CACIB, BOB</td>
+  </tr>
+   <td>30.04.2017</td>
+   <td>Inowrocław</td>
+   <td>krajowa</td>
+   <td>otwarta</td>
+   <td>Anna Dzidt</td>
+   <td>doskonała</td>
+   <td>I lokata, CWC</td>
+  </tr>
    <td align=\"center\" colspan=7><font size=6><b>2016</b></font></td>
   </tr>
    <td>21.08.2016</td>

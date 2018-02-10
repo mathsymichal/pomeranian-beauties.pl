@@ -17,6 +17,22 @@ print ("
   </tr>
    <td align=\"center\" colspan=7><font size=6><b>2017</b></font></td>
   </tr>
+   <td>19.03.2017</td>
+   <td>Katowice</td>
+   <td>międzynarodowa</td>
+   <td>weteranów</td>
+   <td>Ana Beatriz Knoll (BR)</td>
+   <td>doskonała</td>
+   <td>I lokata, Zwycięzca Weteran</td>
+  </tr>
+   <td>18.03.2017</td>
+   <td>Katowice</td>
+   <td>krajowa Cavalierów</td>
+   <td>weteranów</td>
+   <td>Ernie Paterson (GB)</td>
+   <td>doskonała</td>
+   <td>I lokata, Zwycięzca Weteran</td>
+  </tr>
    <td>08.01.2017</td>
    <td>Gdańsk (oddz. Gdynia)</td>
    <td>krajowa</td>

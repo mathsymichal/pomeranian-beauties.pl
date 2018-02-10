@@ -15,6 +15,32 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>10.02.18</b> - The new showing season has already started and we still haven't told you what happened for us in late 2017. Let us catch up then!<br /><br />
+
+We are very happy to say that 2017 was very successful for our dogs. Our TINTIN Pomeranian Beauties became an Interchampion! LITTLE MEC \"Maciek\" de la Geode became a Champion of Poland and then, at the Club Show in Tallin in Estonia (with 186 Cavaliers competing) he was awarded the Best B&amp;T Dog title, came 3rd in Best In Show, and became a Champion of Estonia! He has also satisfied all requirements to become an Interchampion.<br /><br />
+
+Our ruby girl TINY DANCER Pomeranian Beauties became a Champion of Poland and of Bulgaria in 2017. And our lovely DARK CRISTAL \"Darek\" de la Geode became a Veteran Champion of Poland :-)<br /><br />
+
+We have also had one very sad thing happen to us... After two years of fighting and slow recovery, our RUMBA has passed away. She just fell asleep... Maybe she wass tired of this constant battle...?<br /><br />
+
+But we want to finish on a very happy note! On the 6th of January 2018 our SCARLET O'HARA \"Clara\" and LITTLE MEC \"Maciek\" de la Geode became parents of five lovely puppies - two boys (one B&amp;T and one ruby) and three girls (two B&amp;T and one ruby). The puppies are growing and developing wonderfully, and Clara is being a perfect mum, just as she was in the past!<br /><br />
+
+<center><img src=\"./c2puppies0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./c2puppies1.jpg\" alt=\"\"></center><br />
+
+As usual, we have also prepared some new pictures for you to have a look at in out \"Photo album\"!<br /><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>15.05.17</b> - Today Anne of Green Gables \"Ana... Ania... Anulka\" Pomeranian Beauties moved to her new Family: Beatka, Lukasz, Tymek, Emilka and Winnie Cooper Pomeranian Beauties. We're wishing you a lot of joy and fun together! :-)<br /><br />
 
 <center><img src=\"./ana4.jpg\" alt=\"\"></center>

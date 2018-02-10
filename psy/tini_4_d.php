@@ -14,6 +14,42 @@ print ("
    <td><b>Note</b></td>
    <td><b>Bewertung/Titel</b></td>
   </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2018</b></font></td>
+  </tr>
+   <td>3.02.2018</td>
+   <td>Bydgoszcz</td>
+   <td>International</td>
+   <td>Champion Kl.</td>
+   <td>Zofia Konderla</td>
+   <td>Vorzueglich</td>
+   <td>V1, CWC, CACIB</td>
+  </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2017</b></font></td>
+  </tr>
+   <td>19.11.2017</td>
+   <td>Plovdiv (BUL)</td>
+   <td>International</td>
+   <td>Champion Kl.</td>
+   <td>Dragan Janjic (SRB)</td>
+   <td>Vorzueglich</td>
+   <td>V1, CAC, CACIB, BOB</td>
+  </tr>
+   <td>17.11.2017</td>
+   <td>Plovdiv (BUL)</td>
+   <td>International</td>
+   <td>Champion Kl.</td>
+   <td>Galina Todorova (BUL)</td>
+   <td>Vorzueglich</td>
+   <td>V1, CAC, CACIB, BOB</td>
+  </tr>
+   <td>30.04.2017</td>
+   <td>Inowrocław</td>
+   <td>National</td>
+   <td>Offenen Kl.</td>
+   <td>Anna Dzidt</td>
+   <td>Vorzueglich</td>
+   <td>V1, CWC</td>
+  </tr>
    <td align=\"center\" colspan=7><font size=6><b>2016</b></font></td>
   </tr>
    <td>21.08.2016</td>

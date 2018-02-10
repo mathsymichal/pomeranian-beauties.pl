@@ -16,6 +16,38 @@ print ("
   </tr>
    <td align=\"center\" colspan=7><font size=6><b>2017</b></font></td>
   </tr>
+   <td>19.04.2017</td>
+   <td>Riga (LAT)</td>
+   <td>International</td>
+   <td>Champions' class</td>
+   <td>Zhuk Anatoly (BY)</td>
+   <td>Excellent</td>
+   <td>II, resCACIB</td>
+  </tr>
+   <td>18.04.2017</td>
+   <td>Riga (LAT)</td>
+   <td>International</td>
+   <td>Champions' class</td>
+   <td>Paloheimo Annuka (FIN)</td>
+   <td>Excellent</td>
+   <td>II</td>
+  </tr>
+   <td>2.04.2017</td>
+   <td>Naplaćenia-Strani (SRB)</td>
+   <td>International</td>
+   <td>Champions' class</td>
+   <td>Żeliko Todorović (SRB)</td>
+   <td>Excellent</td>
+   <td>I, CAC, CACIB, BOB</td>
+  </tr>
+   <td>1.04.2017</td>
+   <td>Jagodina (SRB)</td>
+   <td>International</td>
+   <td>Champions' class</td>
+   <td>Marija Radovanovic Munćan (SRB)</td>
+   <td>Excellent</td>
+   <td>I, CAC, CACIB, BOB</td>
+  </tr>
    <td>08.01.2017</td>
    <td>Gdańsk</td>
    <td>national</td>

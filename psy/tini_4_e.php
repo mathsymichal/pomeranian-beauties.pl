@@ -14,6 +14,42 @@ print ("
    <td><b>Note</b></td>
    <td><b>Awards</b></td>
   </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2018</b></font></td>
+  </tr>
+   <td>3.02.2018</td>
+   <td>Bydgoszcz</td>
+   <td>International</td>
+   <td>Champions' class</td>
+   <td>Zofia Konderla</td>
+   <td>Excellent</td>
+   <td>I, CWC, CACIB</td>
+  </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2017</b></font></td>
+  </tr>
+   <td>19.11.2017</td>
+   <td>Plovdiv (BUL)</td>
+   <td>International</td>
+   <td>Champions' class</td>
+   <td>Dragan Janjic (SRB)</td>
+   <td>Excellent</td>
+   <td>I, CAC, CACIB, BOB</td>
+  </tr>
+   <td>17.11.2017</td>
+   <td>Plovdiv (BUL)</td>
+   <td>International</td>
+   <td>Champions' class</td>
+   <td>Galina Todorova (BUL)</td>
+   <td>Excellent</td>
+   <td>I, CAC, CACIB, BOB</td>
+  </tr>
+   <td>30.04.2017</td>
+   <td>Inowrocław</td>
+   <td>National</td>
+   <td>Open class</td>
+   <td>Anna Dzidt</td>
+   <td>Excellent</td>
+   <td>I, CWC</td>
+  </tr>
    <td align=\"center\" colspan=7><font size=6><b>2016</b></font></td>
   </tr>
    <td>21.08.2016</td>

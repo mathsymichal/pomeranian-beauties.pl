@@ -17,6 +17,22 @@ print ("
   </tr>
    <td align=\"center\" colspan=7><font size=6><b>2017</b></font></td>
   </tr>
+   <td>19.03.2017</td>
+   <td>Katowice</td>
+   <td>International</td>
+   <td>Veterans' class</td>
+   <td>Ana Beatriz Knoll (BR)</td>
+   <td>Excellent</td>
+   <td>I, Veteran Winner</td>
+  </tr>
+   <td>18.03.2017</td>
+   <td>Katowice</td>
+   <td>National</td>
+   <td>Veterans' class</td>
+   <td>Ernie Paterson (GB)</td>
+   <td>Excellent</td>
+   <td>I, Veteran Winner</td>
+  </tr>
    <td>08.01.2017</td>
    <td>Gdańsk</td>
    <td>National</td>

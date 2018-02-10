@@ -16,6 +16,38 @@ print ("
   </tr>
    <td align=\"center\" colspan=7><font size=6><b>2017</b></font></td>
   </tr>
+   <td>19.04.2017</td>
+   <td>Riga (LAT)</td>
+   <td>międzynarodowa</td>
+   <td>championów</td>
+   <td>Zhuk Anatoly (BY)</td>
+   <td>doskonała</td>
+   <td>II lokata, resCACIB</td>
+  </tr>
+   <td>18.04.2017</td>
+   <td>Riga (LAT)</td>
+   <td>międzynarodowa</td>
+   <td>championów</td>
+   <td>Paloheimo Annuka (FIN)</td>
+   <td>doskonała</td>
+   <td>II lokata</td>
+  </tr>
+   <td>2.04.2017</td>
+   <td>Naplaćenia-Strani (SRB)</td>
+   <td>międzynarodowa</td>
+   <td>championów</td>
+   <td>Żeliko Todorović (SRB)</td>
+   <td>doskonała</td>
+   <td>I lokata, CAC, CACIB, BOB</td>
+  </tr>
+   <td>1.04.2017</td>
+   <td>Jagodina (SRB)</td>
+   <td>międzynarodowa</td>
+   <td>championów</td>
+   <td>Marija Radovanovic Munćan (SRB)</td>
+   <td>doskonała</td>
+   <td>I lokata, CAC, CACIB, BOB</td>
+  </tr>
    <td>08.01.2017</td>
    <td>Gdańsk (oddz. Gdynia)</td>
    <td>krajowa</td>

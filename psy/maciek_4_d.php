@@ -16,6 +16,38 @@ print ("
   </tr>
    <td align=\"center\" colspan=7><font size=6><b>2017</b></font></td>
   </tr>
+   <td>26.10.2017</td>
+   <td>Plovdiv (BUL)</td>
+   <td>International</td>
+   <td>Champions Kl.</td>
+   <td>Mile Aleksoski (MK)</td>
+   <td>Vorzueglich</td>
+   <td>V1, CAC, CACIB, BOB</td>
+  </tr>
+   <td>6.10.2017</td>
+   <td>Chișinău (MD)</td>
+   <td>International</td>
+   <td>Champions Kl.</td>
+   <td>Otokar Vondrous (CZ)</td>
+   <td>Vorzueglich</td>
+   <td>V1, CAC, CACIB, BOB</td>
+  </tr>
+   <td>25.06.2017</td>
+   <td>Kołobrzeg</td>
+   <td>International</td>
+   <td>Champions Kl.</td>
+   <td>Magdalena Świętoń</td>
+   <td>Vorzueglich</td>
+   <td>V1, CWC, Best Dog, CACIB, BOB</td>
+  </tr>
+   <td>3.06.2017</td>
+   <td>Tallin (EST)</td>
+   <td>Club Show</td>
+   <td>Offene Klasse</td>
+   <td>William Henderson (AUS)</td>
+   <td>Vorzueglich</td>
+   <td>V1, CWC, CACIB, BOB (B&amp;T), 3 BIS</td>
+  </tr>
    <td>08.01.2017</td>
    <td>Gdańsk</td>
    <td>National</td>

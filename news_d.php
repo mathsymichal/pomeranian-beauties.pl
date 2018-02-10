@@ -15,6 +15,32 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>10.02.18</b> - Die neue Saison hat schon begonnen und wir haben uns noch nicht mit den Informationen von der zweiten Haelfte des Jahres 2017 mit euch geteilt... Wir holen das gleich ein!<br /><br />
+
+Das Jahr 2017 war fuer unsere Hundis sehr erfrolgreich auf den Ausstellungsringen. Und so, unser TINTIN Pomeranian Beauties bendete und bekam den Titel Ineternationaler Champion! LITTLE MEC \"Maciek\" de la Geode wurde Polnischer Champion, Championen von Estonien wie auch der Beste B&amp;T Hund auf der Clubschau in Tallin (186 Cavaliere), 3 Platz in BIS, hat auch alle Bedinungen fuer den Titel Internationalen Champion.<br /><br />
+
+Unser Ruby Maedchen TINY DANCER \"Tiny\" Pomeranian Beauties beendete und bekam den Titel Polnicher Champion und Champion von Bulgarien. Und unser Schatz DARK CRISTAL \"Darek\" de la Geode erwarb den Titel Polnischer Veteran Champion :-)<br /><br />
+
+Leider wurde uns ein traumatisches Geschehen auch nicht gesparrt... Rumba, nach zwei Jahren Kampf und Rehabilitation hat uns verlassen. Sie ist einfach eingeschlafen... Vielleicht war sie schon einfach zu muede um weiter zu kaempfen?<br /><br />
+
+Wir haben aber auch frohe Naqchrichten! Am 6 Januar 2018 SCARLET O'HARA \"Clara\" Pomeranian Beauties und LITTLE MEC \"Maciek\" de la Geode wurden Eltern von wundersuessen \"Fuenflingen\" – zwei Buben (B&amp;T und Ruby) und drei Maedchen (2 B&amp;T und 1 Ruby). Die Babys gedeihen und entwickeln sich wunderbar und Clara, wie bei den fueheren Wuerfen, kuemmert sich toll um ihre Wonneproppen!<br /><br />
+
+<center><img src=\"./c2puppies0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./c2puppies1.jpg\" alt=\"\"></center><br />
+
+Und wie immer laden wir euch herzlich auf neue Portion Fotos in unserem \"Fotoalbum\" ein!<br /><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>15.05.17</b> - Heute ist Anne of Green Gables \"Ana... Ania... Anulka\" Pomeranian Beauties in ihr neues Zuhause umgezogen zu ihrer neuen Familie Beata, Łukasz, Tymek, Emilka und Winnie Cooper Pomeranian Beauties. Wir wuenschen euch allen nur Freude und Glueck! :-)<br /><br />
 
 <center><img src=\"./ana4.jpg\" alt=\"\"></center>
