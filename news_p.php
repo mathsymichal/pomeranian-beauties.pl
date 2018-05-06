@@ -15,7 +15,7 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
-<b>07.05.18</b> - Cieszymy się, że możemy Was poinformować, że dnia 24 kwietnia 2018 przyszły u nas na świat czworaczki. Mamą trójki chłopaków w kolorze black &amp; tan i jednej rubinowej dziewuszki jest nasza rubonowa księżniczka Tiny Dancer Pomeranian Beauties, a Tatą nasz przeuroczy Little Mec de la Geode! Tiny jest niesamowicie troskliwą mamą, malutki piją, śpią i pięknie się rozwijają :-)<br /><br />
+<b>07.05.18</b> - Cieszymy się, że możemy Was poinformować, że dnia 24 kwietnia 2018 przyszły u nas na świat czworaczki. Mamą trójki chłopaków w kolorze black &amp; tan i jednej rubinowej dziewuszki jest nasza rubinowa księżniczka Tiny Dancer Pomeranian Beauties, a Tatą nasz przeuroczy Little Mec de la Geode! Tiny jest niesamowicie troskliwą mamą, malutki piją, śpią i pięknie się rozwijają :-)<br /><br />
 
 <center><img src=\"./dPuppies0.jpg\" alt=\"\"></center>
 
