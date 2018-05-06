@@ -15,6 +15,20 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>07.05.18</b> - We are very happy to tell you that on the 24th of April 2018 we had four puppies born at our home! The mummy of the three black&amp;tan boys and one ruby girl is our ruby princess Tiny Dancer Pomeranian Beauties, while the daddy is our lovely Little Mec de la Geode. Tiny is a wonderfully caring mum. The puppies eat, sleep, and develop beautifully :-)<br /><br />
+
+<center><img src=\"./dPuppies0.jpg\" alt=\"\"></center>
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>10.02.18</b> - The new showing season has already started and we still haven't told you what happened for us in late 2017. Let us catch up then!<br /><br />
 
 We are very happy to say that 2017 was very successful for our dogs. Our TINTIN Pomeranian Beauties became an Interchampion! LITTLE MEC \"Maciek\" de la Geode became a Champion of Poland and then, at the Club Show in Tallin in Estonia (with 186 Cavaliers competing) he was awarded the Best B&amp;T Dog title, came 3rd in Best In Show, and became a Champion of Estonia! He has also satisfied all requirements to become an Interchampion.<br /><br />

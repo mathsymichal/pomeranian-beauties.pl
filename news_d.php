@@ -15,6 +15,20 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>07.05.18</b> - Wir freuen uns euch zu informieren, dass am 24 April 2018 unsere Ruby Prinzessin Tiny Dancer Pomeranian Beauties und unser reizender Little Mec de la Geode Eltern von vier suessen Babys wurden - drei Black &amp; Tan Buben und einem Ruby Maedchen! Tiny ist eine wunderbare Mami, die Kleinen trinken, schlafen und gedeihen wunderschoen :-)<br /><br />
+
+<center><img src=\"./dPuppies0.jpg\" alt=\"\"></center>
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>10.02.18</b> - Die neue Saison hat schon begonnen und wir haben uns noch nicht mit den Informationen von der zweiten Haelfte des Jahres 2017 mit euch geteilt... Wir holen das gleich ein!<br /><br />
 
 Das Jahr 2017 war fuer unsere Hundis sehr erfrolgreich auf den Ausstellungsringen. Und so, unser TINTIN Pomeranian Beauties bendete und bekam den Titel Ineternationaler Champion! LITTLE MEC \"Maciek\" de la Geode wurde Polnischer Champion, Championen von Estonien wie auch der Beste B&amp;T Hund auf der Clubschau in Tallin (186 Cavaliere), 3 Platz in BIS, hat auch alle Bedinungen fuer den Titel Internationalen Champion.<br /><br />

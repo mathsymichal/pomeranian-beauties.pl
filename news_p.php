@@ -15,6 +15,20 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>07.05.18</b> - Cieszymy się, że możemy Was poinformować, że dnia 24 kwietnia 2018 przyszły u nas na świat czworaczki. Mamą trójki chłopaków w kolorze black &amp; tan i jednej rubinowej dziewuszki jest nasza rubonowa księżniczka Tiny Dancer Pomeranian Beauties, a Tatą nasz przeuroczy Little Mec de la Geode! Tiny jest niesamowicie troskliwą mamą, malutki piją, śpią i pięknie się rozwijają :-)<br /><br />
+
+<center><img src=\"./dPuppies0.jpg\" alt=\"\"></center>
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>10.02.18</b> - Rozpoczął się już nowy sezon wystawowy, a my nie podzieliliśmy się jeszcze z Wami  wydarzeniami z drugiej połowy 2017 roku... Już to nadrabiamy!<br /><br />
 
 Rok 2017 był dla naszych piesków bardzo owocny i pełen sukcesów na ringach wystawowych. Nasz TINTIN Pomeranian Beauties uzyskał tytuł Championa Międzynarodowego! LITTLE MEC \"Maciek\" de la Geode zdobył tytuł Championa Polski oraz na wystawie klubowej cavalierów w Talinie (Estonia, wśród 186 cavalierów), tytuł Najlepszego w Rasie Psa black&amp;tan, 3. miejsce w BIS (Najlepszy Pies Wystawy) oraz tytuł Championa Estonii! Spełnił także wszystkie warunki dla uzyskania tytułu Championa Międzynarodowego.<br /><br />
