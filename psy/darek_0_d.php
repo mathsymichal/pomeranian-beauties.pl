@@ -10,9 +10,7 @@ print ("
 <font color=\"navy\" size=\"5\"><b>Polnischer Veteran Champion</b></font><br />
 <br /><img src=\"./psy/darek0.jpg\" alt=\"DARK CRISTAL de la Geode\"></center><br />
 
-<center><b>Deckruede</b></br></br>
-<b>Wir versenden Samen</b></br>
-<img src=\"./mail.png\" alt=\"\"></center></br>
+<center><b>Deckruede</b></center></br>
 
 <b>Gesundheitsbefunde:</b></br>
 - Herz (MVD) – ohne Befund (Grad \"0\"),</br>

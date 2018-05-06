@@ -10,9 +10,7 @@ print ("
 
 <br /><center><img src=\"./psy/maciek0.jpg\" alt=\"LITTLE MEC de la Geode\"></center><br />
 
-<center><b>Stud dog</b></br></br>
-<b>Semen available</b></br>
-<img src=\"./mail.png\" alt=\"\"></center></br>
+<center><b>Stud dog</b></center></br>
 
 <b>Examinations' results::</b></br>
 - Heart (MVD) – clear (Grade \"0\"),</br>
