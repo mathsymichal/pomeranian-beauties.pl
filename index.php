@@ -456,13 +456,6 @@ print ("
 <a href=\"http://www.fci.be/\" target=\"_blank\"><font color=\"000000\" size=\"5\"><b>FCI</b></font></a>
 		</center>
 	</div>
-	
-<div class=\"certyfikaty\">
-
-		<center>
-<a href=\"http://www.ccd-cavaliere.de/\" target=\"_blank\"><font color=\"000000\" size=\"5\"><b>CCD</b></font></a>
-		</center>
-	</div>
 
 	
 <div class=\"certyfikaty\">
@@ -881,13 +874,6 @@ print ("
 <a href=\"http://www.fci.be/\" target=\"_blank\"><font color=\"000000\" size=\"5\"><b>FCI</b></font></a>
 		</center>
 	</div>
-	
-<div class=\"certyfikaty\">
-
-		<center>
-<a href=\"http://www.ccd-cavaliere.de/\" target=\"_blank\"><font color=\"000000\" size=\"5\"><b>CCD</b></font></a>
-		</center>
-	</div>
 
 	
 <div class=\"certyfikaty\">
@@ -1297,13 +1283,6 @@ print ("
 
 		<center>
 <a href=\"http://www.fci.be/\" target=\"_blank\"><font color=\"000000\" size=\"5\"><b>FCI</b></font></a>
-		</center>
-	</div>
-	
-<div class=\"certyfikaty\">
-
-		<center>
-<a href=\"http://www.ccd-cavaliere.de/\" target=\"_blank\"><font color=\"000000\" size=\"5\"><b>CCD</b></font></a>
 		</center>
 	</div>
 
