@@ -6,7 +6,7 @@ print ("
 
 <center>
 
-<font color=\"navy\" size=\"5\"><b>Interchampion</b><br /><b>Polnischer, Rumänischer, Lettischer und Serbischer Champion</b><br /><b>Polen Sieger 2016</b></font><br />
+<font color=\"navy\" size=\"5\"><b>Interchampion</b><br /><b>Polnischer, Rumänischer, Litauischer, Lettischer und Serbischer Champion</b><br /><b>Polen Sieger 2016</b></font><br />
 <br /><img src=\"./psy/tintin0.jpg\" alt=\"TINTIN Pomeranian Beauties\">
 
 </center><br />

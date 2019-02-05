@@ -15,6 +15,26 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>06.02.19</b> - Wir bitten um Verzeihung, dass wir so Lange unsere Webseite nich aktualisiert haben. Ihr wisst, wie es so den pensionierten geht , wir haben nie Zeit! ;-) Im Leben von Michał, der sich, wie ihr wisst, um unsere Webseite kuemmert, gab es auch Veraenderungen, und die Zeit fehlte immer. Aber wir holen das schnell auf.<br /><br />
+
+Leider hat sich Norma mit uns verabschiedet, verabschiedet hat sich auch Harpo... Wir haben einen grossen Teil von unserem Leben mit ihnen verbracht und sie werden immer in unserer Erinnerung bleiben. Einmal sagte jemand, dass Hunde nur einen \"Fehler\" haben... Sie leben zu kurz...<br /><br />
+
+Wir hatten auch schoene Momente erleben duerfen. :-) Unser Maciek (Little Mec de la Geode) hat den Inter Championat beendet und Tintin erwarb den Titel Litauischer Champion. Zwei Jungs traten in unser Rudel ein. Als erster Enkel unseres Darek (Dark Cristal de la Geode) Amon Sylena, der letztes Jahr blitzschnell den Titel des Polnischen Junior Champion gewann. Und einige Monate spaeter trat Sasha (Natali Teodorus Double Trouble For Rival) bei. Beide haben bereits Links, wo ihr mehr ueber die Jungs lesen koennt.<br /><br />
+
+<center><img src=\"./psy/amon0.jpg\" alt=\"\"></center><br />
+
+Und wie immer, obwohl ihr das Recht habt, sich nicht mehr daran zu erinnern ;-), laden wir euch zu einer neuen Portion Fotos in unserem \"Familienalbum\" ein!<br /><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>07.05.18</b> - Wir freuen uns euch zu informieren, dass am 24 April 2018 unsere Ruby Prinzessin Tiny Dancer Pomeranian Beauties und unser reizender Little Mec de la Geode Eltern von vier suessen Babys wurden - drei Black &amp; Tan Buben und einem Ruby Maedchen! Tiny ist eine wunderbare Mami, die Kleinen trinken, schlafen und gedeihen wunderschoen :-)<br /><br />
 
 <center><img src=\"./dPuppies0.jpg\" alt=\"\"></center>

@@ -201,6 +201,8 @@ default:
 	elseif ($dog=="17") $imie="tintin";
 	elseif ($dog=="18") $imie="maciek";
 	elseif ($dog=="19") $imie="tini";
+	elseif ($dog=="20") $imie="amon";
+	elseif ($dog=="21") $imie="sasha";
 	
 	if ($dog != "7") print ("
 
@@ -286,6 +288,16 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=1&dog=20&opt=0\"><font color=\"yellow\" size=\"4\">
+			<b>Amon</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+		</div>
+
+		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=1&dog=21&opt=0\"><font color=\"yellow\" size=\"4\">
+			<b>Double Trouble For Rival</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+		</div>
+
+		<div class=\"pasek\">
 			&nbsp;Nasze suczki:
 		</div>
 		
@@ -305,8 +317,8 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<a href=\"./index.php?ver=1&dog=7&opt=0\"><font color=\"yellow\">
-			<b>&nbsp;Szczenięta</b></font>&nbsp;<img src=\"./new.png\"></a>
+			<a href=\"./index.php?ver=1&dog=7&opt=0\"><font color=\"black\">
+			<b>&nbsp;Szczenięta</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -419,7 +431,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Champ. PL, EST<br />LITTLE MEC de la Geode</b><br><br>b &amp; t<br><br>ur: 24.03.2015<br><br>
+  <center><b>Interchamp.<br />Champ. PL, EST<br />LITTLE MEC de la Geode</b><br><br>b &amp; t<br><br>ur: 24.03.2015<br><br>
 	Hodowca:<br>Roger Madec</center>
 		<br /><hr />
 	</div>
@@ -432,6 +444,28 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>Champ. PL, BUL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>ur: 28.06.2014<br><br>
 	Hodowca:<br>Ewa &amp; Witold Rudzinscy</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "20":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>Mł. Champ. PL<br />AMON Sylena</b><br><br>b &amp; t<br><br>ur: 23.09.2017<br><br>
+	Hodowca:<br>Jerzy Olszewski</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "21":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>ur: 12.04.2018<br><br>
+	Hodowca:<br>Natalia Varfolomeeva</center>
 		<br /><hr />
 	</div>
  
@@ -620,6 +654,8 @@ default:
 	elseif ($dog=="17") $imie="tintin";
 	elseif ($dog=="18") $imie="maciek";
 	elseif ($dog=="19") $imie="tini";
+	elseif ($dog=="20") $imie="amon";
+	elseif ($dog=="21") $imie="sasha";
 	
 	if ($dog!="7") print ("
 
@@ -705,6 +741,16 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=2&dog=20&opt=0\"><font color=\"yellow\" size=\"4\">
+			<b>Amon</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+		</div>
+
+		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=2&dog=21&opt=0\"><font color=\"yellow\" size=\"4\">
+			<b>Double Trouble For Rival</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+		</div>
+
+		<div class=\"pasek\">
 			&nbsp;Unsere Hündinnen:
 		</div>
 		
@@ -724,8 +770,8 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<a href=\"./index.php?ver=2&dog=7&opt=0\"><font color=\"yellow\">
-			<b>&nbsp;Welpen</b></font>&nbsp;<img src=\"./new.png\"></a>
+			<a href=\"./index.php?ver=2&dog=7&opt=0\"><font color=\"black\">
+			<b>&nbsp;Welpen</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -838,7 +884,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Champ. PL, EST<br />LITTLE MEC de la Geode</b><br><br>b &amp; t<br><br>geb: 24.03.2015<br><br>
+  <center><b>Interchamp.<br />Champ. PL, EST<br />LITTLE MEC de la Geode</b><br><br>b &amp; t<br><br>geb: 24.03.2015<br><br>
 	Züchter:<br>Roger Madec</center>
 		<br /><hr />
 	</div>
@@ -851,6 +897,28 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>Champ. PL, BUL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>geb: 28.06.2014<br><br>
 	Züchter:<br>Ewa &amp; Witold Rudzinski</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "20":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>Jug. Champ. PL<br />AMON Sylena</b><br><br>b &amp; t<br><br>geb: 23.09.2017<br><br>
+	Züchter:<br>Jerzy Olszewski</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "21":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>geb: 12.04.2018<br><br>
+	Züchter:<br>Natalia Varfolomeeva</center>
 		<br /><hr />
 	</div>
  
@@ -1029,6 +1097,8 @@ default:
 	elseif ($dog=="17") $imie="tintin";
 	elseif ($dog=="18") $imie="maciek";
 	elseif ($dog=="19") $imie="tini";
+	elseif ($dog=="20") $imie="amon";
+	elseif ($dog=="21") $imie="sasha";
 	
 	if ($dog != "7") print ("
 
@@ -1114,6 +1184,16 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=3&dog=20&opt=0\"><font color=\"yellow\" size=\"4\">
+			<b>Amon</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+		</div>
+
+		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=3&dog=21&opt=0\"><font color=\"yellow\" size=\"4\">
+			<b>Double Trouble For Rival</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+		</div>
+
+		<div class=\"pasek\">
 			&nbsp;Our girls:
 		</div>
 		
@@ -1133,8 +1213,8 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<a href=\"./index.php?ver=3&dog=7&opt=0\"><font color=\"yellow\">
-			<b>&nbsp;Puppies</b></font>&nbsp;<img src=\"./new.png\"></a>
+			<a href=\"./index.php?ver=3&dog=7&opt=0\"><font color=\"black\">
+			<b>&nbsp;Puppies</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -1247,7 +1327,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Champ. PL, EST<br />LITTLE MEC de la Geode</b><br><br>b &amp; t<br><br>born: 24.03.2015<br><br>
+  <center><b>Interchamp.<br />Champ. PL, EST<br />LITTLE MEC de la Geode</b><br><br>b &amp; t<br><br>born: 24.03.2015<br><br>
 	Breeeder:<br>Roger Madec</center>
 		<br /><hr />
 	</div>
@@ -1260,6 +1340,28 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>Champ. PL, BUL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>born: 28.06.2014<br><br>
 	Breeeder:<br>Ewa &amp; Witold Rudzinscy</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "20":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>Jun. Champ. PL<br />AMON Sylena</b><br><br>b &amp; t<br><br>born: 23.09.2017<br><br>
+	Breeder:<br>Jerzy Olszewski</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "21":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>born: 12.04.2018<br><br>
+	Breeder:<br>Natalia Varfolomeeva</center>
 		<br /><hr />
 	</div>
  

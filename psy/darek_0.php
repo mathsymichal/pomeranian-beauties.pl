@@ -15,12 +15,12 @@ print ("
 
 <b>Wyniki badań:</b></br>
 - Serce (MVD) – bez zmian (stopień \"0\"),</br>
-- Rzepka – bez zmian.</br></br>
+- Rzepka – bez zmian,</br>
+- SM (skan MRI) - wolny (\"A\").</br></br>
 
 <b>Testy DNA:</b></br>
 - Episodic Falling (EF) - nosiciel,</br>
-- Curly Coat Dry Eye Syndrome - wolny,</br>
-- SM (skan MRI) - wolny (\"A\").
+- Curly Coat Dry Eye Syndrome - wolny.
 </div>
 
 ");

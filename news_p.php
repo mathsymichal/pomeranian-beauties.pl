@@ -15,6 +15,26 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>06.02.19</b> - Ogromnie Was przepraszamy, że tak dawno nie wprowadziliśmy żadnych aktualności na naszej stronce. Wiecie jak to jest na emeryturze... Na nic nie ma czasu ;-) Poza tym w życiu Michała, który jak wiecie opiekuje się naszą stronką, również zachodziły zmiany i tego czasu zawsze brakowało. Ale już nadganiamy.<br /><br />
+
+Niestety pożegnała się z nami Norma, pożegnał się Harpo... Spędziliśmy z nimi kawał życia i zawsze zostaną w naszej pamięci. Kiedyś ktoś powiedział, że psy mają jedną jedyną \"wadę\": żyją zbyt krótko...<br /><br />
+
+Przeżyliśmy jednak i piękne chwile! Nasz Maciuś (Little Mec de la Geode) zakończył Inter Championat :-), a Tintin zdobył tytuł Championa Litwy. Do naszego stadka dołączyło też dwóch chłopaków! Jako pierwszy wnuk naszego Darka (Dark Cristal de la Geode) Amon Sylena, który w ubiegłym roku w błyskawiczny sposób wywalczył sobie tytuł Młodzieżowego Championa Polski. A kilka miesięcy później dołączył Sasha (Natali Teodorus Double Trouble For Rival). Obaj mają już swoje linki, tak więc możecie w nich poczytać sobie o chłopakach więcej!<br /><br />
+
+<center><img src=\"./psy/amon0.jpg\" alt=\"\"></center><br />
+
+I jak zawsze, choć macie prawo tego już nie pamiętać ;-), zapraszamy na nową porcję zdjęć do naszego \"Albumu rodzinnego\"!<br /><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>07.05.18</b> - Cieszymy się, że możemy Was poinformować, że dnia 24 kwietnia 2018 przyszły u nas na świat czworaczki. Mamą trójki chłopaków w kolorze black &amp; tan i jednej rubinowej dziewuszki jest nasza rubinowa księżniczka Tiny Dancer Pomeranian Beauties, a Tatą nasz przeuroczy Little Mec de la Geode! Tiny jest niesamowicie troskliwą mamą, malutki piją, śpią i pięknie się rozwijają :-)<br /><br />
 
 <center><img src=\"./dPuppies0.jpg\" alt=\"\"></center>

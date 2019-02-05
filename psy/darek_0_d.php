@@ -14,12 +14,12 @@ print ("
 
 <b>Gesundheitsbefunde:</b></br>
 - Herz (MVD) – ohne Befund (Grad \"0\"),</br>
-- Patellar Luxation – ohne Befund.</br></br>
+- Patellar Luxation – ohne Befund,</br>
+- SM (MRI Scan) - frei (\"A\").</br></br>
 
 <b>DNA getestet:</b></br>
 - Episodic Falling (EF) - Traeger,</br>
-- Curly Coat Dry Eye Syndrome - frei,</br>
-- SM (MRI Scan) - frei (\"A\").
+- Curly Coat Dry Eye Syndrome - frei.
 
 </div>
 

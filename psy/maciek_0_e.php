@@ -5,7 +5,7 @@ print ("
 <div class=\"foto\">
 
 <center>
-<font color=\"navy\" size=\"5\"><b>Champion of Poland and Estonia</b></font><br />
+<font color=\"navy\" size=\"5\"><b>Interchampion</b><br /><b>Champion of Poland and Estonia</b></font><br />
 </center>
 
 <br /><center><img src=\"./psy/maciek0.jpg\" alt=\"LITTLE MEC de la Geode\"></center><br />
@@ -14,7 +14,8 @@ print ("
 
 <b>Examinations' results::</b></br>
 - Heart (MVD) – clear (Grade \"0\"),</br>
-- Patellar Luxation – clear.</br></br>
+- Patellar Luxation – clear,</br>
+- SM (skan MRI) - clear (\"A\").</br></br>
 
 <b>DNA Tests:</b></br>
 - Episodic Falling (EF) - clear,</br>

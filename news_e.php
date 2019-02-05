@@ -15,6 +15,26 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>06.02.19</b> - We would like to apologise that we have not given you any updates for so long. You know what the life of retired people is like... No free time at all! ;-) There were also some changes in Michał's life (he looks after our website) so we could never find the time to sort this out. But finally, here are some news!<br /><br />
+
+Sadly two of our veterans, Norma and Harpo, have passed away... We have spent a big chunk of our lives with them and we will always remember them fondly. Somebody once said, the dogs' only drawback is that they live to short...<br /><br />
+
+But we also had some happy moments! Our Maciek (Little Mec de la Geode) completed his Inter Championat, and Tintin became a Champion of Lithuania! :-) On top of that two new boys have joined our pack. The first one was a grandson of our Darek (Dark Cristal de la Geode) Amon Sylena, who last year immediately became a Junior Champion of Poland. A few months later we were joined by Sasha (Natali Teodorus Double Trouble For Rival). They both have their individual pages already where you can read more about our new arrivals!<br /><br />
+
+<center><img src=\"./psy/amon0.jpg\" alt=\"\"></center><br />
+
+And as always, although by now you might have forgotten this is what we do ;-), we invite you to have a look at our updated \"Photo album\"!<br /><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>07.05.18</b> - We are very happy to tell you that on the 24th of April 2018 we had four puppies born at our home! The mummy of the three black&amp;tan boys and one ruby girl is our ruby princess Tiny Dancer Pomeranian Beauties, while the daddy is our lovely Little Mec de la Geode. Tiny is a wonderfully caring mum. The puppies eat, sleep, and develop beautifully :-)<br /><br />
 
 <center><img src=\"./dPuppies0.jpg\" alt=\"\"></center>
