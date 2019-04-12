@@ -41,9 +41,9 @@ Zweitens... wir haben Babys! Am 1.03 brachte Unique einen Buben zur Welt und am 
 
 <center><img src=\"./fpuppies0.jpg\" alt=\"\"></center><br />
 
-Stolzer Papi beider Wuerfe ist Little Mec de la Geode. I mamusie i dzieciaczki rozwijają się szczęśliwie.<br /><br />
+Stolzer Papi beider Wuerfe ist Little Mec de la Geode.<br /><br />
 
-Und die letzte tolle Nachricht! Am 29.03.2019 kam zu uns, aus dem Zwinger von Herr Roger Madec \"de la Geode\" aus Frankreich, fuer \"Einjaehrige Ferien\" wundervoller Ruede Jefrferson de la Geode. Er ist einfach toll, anhaenglich, Froehlich, hat sich so schnell bei uns eingelebt.<br /><br />
+Und die letzte tolle Nachricht! Am 29.03.2019 kam zu uns, aus dem Zwinger von Herr Roger Madec \"de la Geode\" aus Frankreich, fuer \"Einjaehrige Ferien\" wundervoller Ruede Jefferson de la Geode. Er ist einfach toll, anhaenglich, Froehlich, hat sich so schnell bei uns eingelebt.<br /><br />
 
 <center><img src=\"./jefferson0.jpg\" alt=\"\"></center><br />
 
