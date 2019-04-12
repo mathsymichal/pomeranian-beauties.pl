@@ -14,6 +14,40 @@ print ("
    <td><b>Ocena</b></td>
    <td><b>Tytuły</b></td>
   </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2019</b></font></td>
+  </tr>
+   <td>7.04.2019</td>
+   <td>Zajećar (SRB)</td>
+   <td>międzynarodowa</td>
+   <td>otwarta</td>
+   <td>I. Vasiljevic (SRB)</td>
+   <td>doskonała</td>
+   <td>I lokata, CAC, CACIB</td>
+  </tr>
+   <td>6.04.2019</td>
+   <td>Jagodina (SRB)</td>
+   <td>międzynarodowa</td>
+   <td>otwarta</td>
+   <td>S. Milośevski (MK)</td>
+   <td>doskonała</td>
+   <td>I lokata, CAC, resCACIB</td>
+  </tr>
+   <td>16.02.2019</td>
+   <td>Bydgoszcz</td>
+   <td>krajowa Walentynkowa</td>
+   <td>pośrednia</td>
+   <td>R. Niklasiewicz</td>
+   <td>doskonała</td>
+   <td>I lokata, CWC, Najlepszy Dorosły Pies, Zwycięzca Rasy (BOB)</td>
+  </tr>
+   <td>16.02.2019</td>
+   <td>Bydgoszcz</td>
+   <td>krajowa nocna</td>
+   <td>pośrednia</td>
+   <td>K. Czechowski</td>
+   <td>doskonała</td>
+   <td>I lokata, CWC</td>
+  </tr>
    <td align=\"center\" colspan=7><font size=6><b>2018</b></font></td>
   </tr>
    <td>09.12.2018</td>

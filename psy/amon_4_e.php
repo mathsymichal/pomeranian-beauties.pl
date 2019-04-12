@@ -14,6 +14,40 @@ print ("
    <td><b>Note</b></td>
    <td><b>Awards</b></td>
   </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2019</b></font></td>
+  </tr>
+   <td>7.04.2019</td>
+   <td>Zajećar (SRB)</td>
+   <td>International</td>
+   <td>Open class</td>
+   <td>I. Vasiljevic (SRB)</td>
+   <td>Excellent</td>
+   <td>I, CAC, CACIB</td>
+  </tr>
+   <td>6.04.2019</td>
+   <td>Jagodina (SRB)</td>
+   <td>International</td>
+   <td>Open class</td>
+   <td>S. Milośevski (MK)</td>
+   <td>Excellent</td>
+   <td>I, CAC, resCACIB</td>
+  </tr>
+   <td>16.02.2019</td>
+   <td>Bydgoszcz</td>
+   <td>national</td>
+   <td>Intermediate</td>
+   <td>R. Niklasiewicz</td>
+   <td>Excellent</td>
+   <td>I, CWC, Best Dog, BOB</td>
+  </tr>
+   <td>16.02.2019</td>
+   <td>Bydgoszcz</td>
+   <td>national</td>
+   <td>Intermediate</td>
+   <td>K. Czechowski</td>
+   <td>Excellent</td>
+   <td>I, CWC</td>
+  </tr>
    <td align=\"center\" colspan=7><font size=6><b>2018</b></font></td>
   </tr>
    <td>09.12.2018</td>

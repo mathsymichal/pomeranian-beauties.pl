@@ -15,6 +15,50 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>12.04.19</b> - And here, once again, is our new visitor from France: Jefferson de la Geode!<br /><br />
+
+<center><img src=\"./jefferson1.jpg\" alt=\"\"></center>
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
+<b>12.04.19</b> - We have some great news to share with you! :-)<br /><br />
+
+First of all, our Amon Sylena has achieved two CWC certificates at the first two shows he entered in the Intermediate class, and he topped it up with one BOB! We are so proud of our boy! :-)<br /><br />
+
+<center><img src=\"./witekAmon.jpg\" alt=\"\"></center><br />
+
+Secondly, we have puppies! On 1.03.2019 our Unique Pomeranian Beauties gave birth to a single boy, and on 16.03.2019 our Tiny Dancer Pomeranian Beauties gave birth to five puppies: four girls and one boy.<br /><br />
+
+<center><img src=\"./epuppies0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./fpuppies0.jpg\" alt=\"\"></center><br />
+
+The dad of all six is our wonderful Little Mec de la Geode. Both mummies and all the babies are feeling great!<br /><br />
+
+And the last fantastic update is: since 29.03.2019 we have a new boy in the house! The wonderful Jefferson de la Geode, from Rogera Madec's de la Geode cavaliers, came to stay with us for a year :-) Jefferson is a very clever, friendly and cheerful boy, and is already feeling at home with us!<br /><br />
+
+<center><img src=\"./jefferson0.jpg\" alt=\"\"></center><br />
+
+Jefferson is EF and CCS clear, and his heart tests are also fresh and perfect. We are incredibly happy and proud of the trust that Roger has put in us, thank you so much once again!<br /><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>06.02.19</b> - We would like to apologise that we have not given you any updates for so long. You know what the life of retired people is like... No free time at all! ;-) There were also some changes in Michał's life (he looks after our website) so we could never find the time to sort this out. But finally, here are some news!<br /><br />
 
 Sadly two of our veterans, Norma and Harpo, have passed away... We have spent a big chunk of our lives with them and we will always remember them fondly. Somebody once said, the dogs' only drawback is that they live to short...<br /><br />

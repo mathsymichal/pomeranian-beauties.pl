@@ -15,6 +15,50 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>12.04.19</b> - Unser Gast aus Frankreich, Jefferson de la Geode!<br /><br />
+
+<center><img src=\"./jefferson1.jpg\" alt=\"\"></center>
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
+<b>12.04.19</b> - Wir haben fuer euch paar tolle Neuheiten! :-)<br /><br />
+
+Als erstes, unser Amon Sylena, auf zwei ersten Ausstellungem auf denen er in der Zwischen Klasse gestartet hat, erwag jemals das CAC und auf einen sogar das BOB, wir sind so stolz! :-)<br /><br />
+
+<center><img src=\"./witekAmon.jpg\" alt=\"\"></center><br />
+
+Zweitens... wir haben Babys! Am 1.03 brachte Unique einen Buben zur Welt und am 16.03 Tiny Dancer Fuenflinge! Vier Maedchen und einen Buben.<br /><br />
+
+<center><img src=\"./epuppies0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./fpuppies0.jpg\" alt=\"\"></center><br />
+
+Stolzer Papi beider Wuerfe ist Little Mec de la Geode. I mamusie i dzieciaczki rozwijają się szczęśliwie.<br /><br />
+
+Und die letzte tolle Nachricht! Am 29.03.2019 kam zu uns, aus dem Zwinger von Herr Roger Madec \"de la Geode\" aus Frankreich, fuer \"Einjaehrige Ferien\" wundervoller Ruede Jefrferson de la Geode. Er ist einfach toll, anhaenglich, Froehlich, hat sich so schnell bei uns eingelebt.<br /><br />
+
+<center><img src=\"./jefferson0.jpg\" alt=\"\"></center><br />
+
+Jefferson hat aktuelle Herzuntersuchung, ist auch EF und CCS clear. Wir freuen uns vom herzen ueber das Vetrauen von Roger und wir bedanken uns noch mals dafuer!<br /><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>06.02.19</b> - Wir bitten um Verzeihung, dass wir so Lange unsere Webseite nich aktualisiert haben. Ihr wisst, wie es so den pensionierten geht , wir haben nie Zeit! ;-) Im Leben von Michał, der sich, wie ihr wisst, um unsere Webseite kuemmert, gab es auch Veraenderungen, und die Zeit fehlte immer. Aber wir holen das schnell auf.<br /><br />
 
 Leider hat sich Norma mit uns verabschiedet, verabschiedet hat sich auch Harpo... Wir haben einen grossen Teil von unserem Leben mit ihnen verbracht und sie werden immer in unserer Erinnerung bleiben. Einmal sagte jemand, dass Hunde nur einen \"Fehler\" haben... Sie leben zu kurz...<br /><br />

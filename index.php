@@ -340,12 +340,7 @@ print ("
 			<a href=\"index.php?ver=1&opt=6\"><font color=\"black\">
 			<b>&nbsp;Kontakt</b></font></a>
 		</div>
-
-		<div class=\"pasek\">
-			<a href=\"index.php?ver=1&opt=3\"><font color=\"black\">
-			<b>&nbsp;Księga Gości</b></font></a>
-		</div>
-
+		
 		<div class=\"pasek\">
 			<a href=\"index.php?ver=1&opt=5\"><font color=\"yellow\">
 			<b>&nbsp;Album domowy</b></font>&nbsp;<img src=\"./new.png\"></a>
@@ -795,11 +790,6 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<a href=\"index.php?ver=2&opt=3\"><font color=\"black\">
-			<b>&nbsp;Gästebuch</b></font></a>
-		</div>
-
-		<div class=\"pasek\">
 			<a href=\"index.php?ver=2&opt=5\"><font color=\"yellow\">
 			<b>&nbsp;Fotoalbum</b></font>&nbsp;<img src=\"./new.png\"></a>
 		</div>
@@ -1235,11 +1225,6 @@ print ("
 		<div class=\"pasek\">
 			<a href=\"index.php?ver=3&opt=6\"><font color=\"black\">
 			<b>&nbsp;Contact</b></font></a>
-		</div>
-
-		<div class=\"pasek\">
-			<a href=\"index.php?ver=3&opt=3\"><font color=\"black\">
-			<b>&nbsp;Guestbook</b></font></a>
 		</div>
 
 		<div class=\"pasek\">

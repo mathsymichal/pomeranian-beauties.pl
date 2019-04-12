@@ -6,10 +6,18 @@ print ("
 	<div class=\"teksty\">
 	
 	<center><script src=\"https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js\" async></script>
-<div class=\"pa-embed-player\" style=\"width:600px; height:450px; display:none;\"
+<div class=\"pa-embed-player\" style=\"width:100%; height:480px; display:none;\"
   data-link=\"https://photos.app.goo.gl/Nv5WPn5EM826kxf69\"
   data-title=\"Pomeranian Beauties\"
-  data-description=\"1350 new photos · Album by Michał Przykucki\">
+  data-description=\"1358 new photos · Album by Michał Przykucki\">
+  <img data-src=\"https://lh3.googleusercontent.com/ga5R62r4YA40mO4-Wum-kQaw4TdsxpnnMQn1awdKaD6su6MgAd1RbbiL4ItTwhDZf7gCqs7oLO1WeTACKnOriqVq4qKIa0fkt-_0zlw7lPwyhs400XbmkjTPNkphKH4IPyhrqwhLPVg=w1920-h1080\" src=\"\" alt=\"\" />
+  <img data-src=\"https://lh3.googleusercontent.com/GWZLNqRSfMdy61vmxExLMPMkAYN_-D58dUToQxgaR5uHBWll_1nlT57LAPN0IG4BgkvqoPf9MiDEbC5ar8TlqJbApIrstLMSqx5D3VoVF19iAqOu4_EXa00I9CqtQdc-qYYblWBS12Y=w1920-h1080\" src=\"\" alt=\"\" />
+  <img data-src=\"https://lh3.googleusercontent.com/50PBAno6kjNES0PzvEz7hUe1n1HTvccWLwOHyX-n_LHaTn6-J-4uARA_wDh9cHlJKSRhl5s9UVe35XzLPHo5FvipfWaYpSrGQq4OvBjSvph367ib1xPRbzxVBxtEg-IlX_4A8E1_esg=w1920-h1080\" src=\"\" alt=\"\" />
+  <img data-src=\"https://lh3.googleusercontent.com/qQr_UFvLg4bmDdY-EbBc87LUOMy1W01KVAROHKd97c9ZUMQ0E9fKqO6It8WE6c-4-g-Tw444PRyQ_rMgyETeB8FXi0o_voZ-H3sqdU5exeTrLl71dPaU3hUEqWntXuKf45r_nU2ilLg=w1920-h1080\" src=\"\" alt=\"\" />
+  <img data-src=\"https://lh3.googleusercontent.com/8VpxdNO7VBX6rcTqL9-Uns4jnTe35bqU902IOmJfdBcJMEijWzd3DZy0oCu5r6V-ZPrndknprJv3pXnIvUv1ggux427Qb5-84y0QjXZ0FqcHWNDOwX8YAGlRmBrJXv7h4qI4-qjnTwI=w1920-h1080\" src=\"\" alt=\"\" />
+  <img data-src=\"https://lh3.googleusercontent.com/1xwkLciHyHwdaJq5FEZuKDvCH7zwUnDkK9Vdzpe7dTbBDagQTN1llET0deZTJQMBe7sKYxwuk64lJsei8u3YFwQbJOlPzMUWM20UF4YgbD3kNvXAwvRg8Ep_nBoG6qAln-VJuwQ5yls=w1920-h1080\" src=\"\" alt=\"\" />
+  <img data-src=\"https://lh3.googleusercontent.com/Bq2mknOzB9jLxRscHfmjJ3ly6jIAsSWydyLmdDVs_NeB_-4HFpjTvHD-fNwM9TCqZ-QeTRfMYWjYCd_AIm3JtD-2EKh8nnWqEmJusYxhPYMjnTT4O-fsn05UtXDsoIF6t-0uozYPcMA=w1920-h1080\" src=\"\" alt=\"\" />
+  <img data-src=\"https://lh3.googleusercontent.com/EJoh7xxxkm_febMjHVVJBNz2JgJaQRR3aVZaPqBHrKpggTbhywFfPabt8prysbw8umJ5FoGJgn-7R9Vh7eeJX3o7KlVayTaJRWsrE5VLVAvUCgDFzpDYYN48rSNNKDpNmk9fY5XT-AE=w1920-h1080\" src=\"\" alt=\"\" />
   <img data-src=\"https://lh3.googleusercontent.com/hOQbEXE96bvvRoD05GHjbC38VmGxxv8odSR4JBzpnquFAT4Pi7qqKJ3Bdl8iopyTEg4IhdqFrjZskcOy8PAYsti5YJ26wP1j8yFp_3IqUzI8IMN4aaEhwlpPDFljOdZxWLTUT6UGs5g=w1920-h1080\" src=\"\" alt=\"\" />
   <img data-src=\"https://lh3.googleusercontent.com/bYCW3Ngh4xfSCxOMUi3yItkMZrrcfrcml729EOQCBeypyxC6uhFn7FJ0LBbjEl73VjMqzi1Uh-s5ebNWJ73rRi6JzQu-TtZWMH0tn-Cw2KZJN45c_tvkb0Bi_9ULHlGX1AwM1XyGmjM=w1920-h1080\" src=\"\" alt=\"\" />
   <img data-src=\"https://lh3.googleusercontent.com/kPsFYn4pwOjf5ab3w6dIRfFPCpNWJpXsZtIIaMjMlxwekpbdml8ZGlpSARQrILOWaWizFZMohLs-PaKSHX1sVtKozMNbkq9xvjdIwLBMDdxSDo1RMLlyMF7rU-TI9qe6pqNkvD3lhkA=w1920-h1080\" src=\"\" alt=\"\" />
@@ -427,14 +435,6 @@ print ("
   <img data-src=\"https://lh3.googleusercontent.com/c5z-tNm0Q8c5wlSTyjiI7C4K-9NYyraPRYejW0rL1mXwyHpUsH2HDZHO1TJNbEh2RdmK0gmtt42r5b49OPNXB-X9Lc-rdQOraAPV1h0OElf8mqFBcFBKVgKYUMpzHoYfr5VE1dFGa9Q=w1920-h1080\" src=\"\" alt=\"\" />
   <img data-src=\"https://lh3.googleusercontent.com/QhfYoqt3uowANjrGpIVzY28vgKDx7Ip2II1aYXR2tPM2LMnZHqmGFI7Hxwme6BgdhahvKoUA9cfDt31MNQt9WhOnK5zlIc9KVuo3XjGB1Ty6dabOU-58i2oxwjCWH7yNl1LFNzyy2c4=w1920-h1080\" src=\"\" alt=\"\" />
   <img data-src=\"https://lh3.googleusercontent.com/jD4uXLYx9CXVHuEhIZqD3GU5ihTYbi5DwaNNJysaRrKloOeuTE8yUeC4kTkogILEXoIkjsEkCmHZdirqKPBwcwQFBVKrdZ_U7xUkaMz185Xbi5eIRAUIuPECiAIB_mtVJP4Q0TzRoec=w1920-h1080\" src=\"\" alt=\"\" />
-  <img data-src=\"https://lh3.googleusercontent.com/d5ip6TIvaq_NG9sN1W_AKIyh3G34qTWNCaHMSqBxiKH7SzJW4r_sYo9h8TWrlAbASd3e3S7UDUxrnSCt_kb2RZ_VW8Eu1BvxwVOEnChFhDKTDSqs1wZvHUFclqiF9K_vNvy94Eg1CcA=w1920-h1080\" src=\"\" alt=\"\" />
-  <img data-src=\"https://lh3.googleusercontent.com/ntMA0MqlvgYQhT3oNa7QzDZX6OnvRoTwOfAgUSh6EgF8JLCUAD11ZgONr8K7nuvGxjiWyZirY1iwHB81vApfq8d6isxR9CpEWV7f9M0u2whOovgv9mxE2ZxtS4c8xhzHdnQpL2Qle6M=w1920-h1080\" src=\"\" alt=\"\" />
-  <img data-src=\"https://lh3.googleusercontent.com/8sAknkKQq7QiTXX_rgrOC9uc-_7dyclxJubwKBoJVMNpZRY1GdyK2ObvSwRCPyLNJk97Sexg7eu2Swudla7-D9TnyVPemm0u41adSsdBEKtJ51sdh5aisGbDgT_aZdJ8CCan0Y-BAlU=w1920-h1080\" src=\"\" alt=\"\" />
-  <img data-src=\"https://lh3.googleusercontent.com/zaYhVukaq2RJcjofTGJoF0KWICe00EFVpkw_RphdGapsVk0bXHe_cWdSFknVDr3e0gky-ZQLBRC0DKMS3DP3xFlE4P3WB-FwFaIGwtkPMQgirV1n1xeDWs6PEUA2TVUgxJPJZjvIy74=w1920-h1080\" src=\"\" alt=\"\" />
-  <img data-src=\"https://lh3.googleusercontent.com/nYK_sHRQIFbC0ukBCJmzDZ3VuA5EA0wZ8Xs7ghPW1c047VsOUh5EiN6BTQudpi1ksQKymZHsfF85Gq8urq_O-9OJ3djhXJjuCp54OI2GpZ8XawUUCIk4qTG1QNcXogrUrK5yhduXR-I=w1920-h1080\" src=\"\" alt=\"\" />
-  <img data-src=\"https://lh3.googleusercontent.com/UgHlNKOtUrkdbduaecywAyYWkngUGbGJL6E_s757EJlMqAMcFLy0vObv5YGGn4BYNUT5fzzBVLW5PA52Bac6URODCZVO21RnHvTbESxRqfKkeFzTrvW6ZiYXBDXMVQLM4ZXhjESy4F8=w1920-h1080\" src=\"\" alt=\"\" />
-  <img data-src=\"https://lh3.googleusercontent.com/infm80pypxsFA5R0p68Dx269obtfu5jyxCBeMH8qPjGkudkVn7Ivs6-R66vUstn03Oxp_3gEWMaWK1opR3s3drUe9k4GqBgC9lc7MiU8oDMKfDuNy9wRAZGcxqzzIoj5I1Z2FGl0WDU=w1920-h1080\" src=\"\" alt=\"\" />
-  <img data-src=\"https://lh3.googleusercontent.com/3K1MiOeazBbynuUYvNrnIqV7LM9G2oF--Sn1eEo0JX_ok_cnWRH-7BHrIULQaedRziISzI_nFdB2aCPDw5d3sgrx71qj3LudDqG49Z9EAn5Gpv1erFd-b-PBV2tthruiawPT-kO_PUk=w1920-h1080\" src=\"\" alt=\"\" />
 </div>
 </center>
 	
@@ -443,3 +443,4 @@ print ("
 ");
 
 ?>
+

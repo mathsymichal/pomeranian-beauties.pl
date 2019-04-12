@@ -15,6 +15,50 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>12.04.19</b> - I jeszcze raz nasz gość z Francji, Jefferson de la Geode!<br /><br />
+
+<center><img src=\"./jefferson1.jpg\" alt=\"\"></center>
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
+<b>12.04.19</b> - Mamy dla Was kilka wspaniałych wieści! :-)<br /><br />
+
+Po pierwsze, nasz Amon Sylena na dwóch kolejnych wystawach, na których był po raz pierwszy prezentowany w klasie pośredniej, zdobył dwa CWC, a raz nawet BOB! Tacy jesteśmy dumni z naszego chłopca! :-)<br /><br />
+
+<center><img src=\"./witekAmon.jpg\" alt=\"\"></center><br />
+
+Po drugie urodziły nam się szczeniaczki! I tak, 1.03.2019 mamą jedynaka została Unique Pomeranian Beauties, a 16.03.2019 r. Tiny Dancer Pomeranian Beauties powiła pięcioraczki: urodziły się cztery dziewczynki i jeden chłopczyk.<br /><br />
+
+<center><img src=\"./epuppies0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./fpuppies0.jpg\" alt=\"\"></center><br />
+
+Tatusiem wszystkich malunków jest nasz cudny Little Mec de la Geode. I mamusie i dzieciaczki rozwijają się szczęśliwie.<br /><br />
+
+I ostatnia wspaniała wiadomość! Otóż 29.03.2019 przyjechał do nas z hodowli Pana Rogera Madec (hodowla de la Geode) na \"roczne wakacje\" wspaniały pies Jefferson de la Geode. Jest niesamowicie kontaktowy, radosny i bardzo szybko się u nas zaaklimatyzował.<br /><br />
+
+<center><img src=\"./jefferson0.jpg\" alt=\"\"></center><br />
+
+Jefferson jest wolny od EF i CCS, ma również aktualne badania serduszka. Cieszymy się ogromnie z zaufania jakim obdarzył nas Roger, bardzo Ci jeszcze raz dziękujemy!<br /><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>06.02.19</b> - Ogromnie Was przepraszamy, że tak dawno nie wprowadziliśmy żadnych aktualności na naszej stronce. Wiecie jak to jest na emeryturze... Na nic nie ma czasu ;-) Poza tym w życiu Michała, który jak wiecie opiekuje się naszą stronką, również zachodziły zmiany i tego czasu zawsze brakowało. Ale już nadganiamy.<br /><br />
 
 Niestety pożegnała się z nami Norma, pożegnał się Harpo... Spędziliśmy z nimi kawał życia i zawsze zostaną w naszej pamięci. Kiedyś ktoś powiedział, że psy mają jedną jedyną \"wadę\": żyją zbyt krótko...<br /><br />
