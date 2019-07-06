@@ -195,7 +195,6 @@ break;
 default:
 
 	if ($dog=="7") $imie="puppies/puppies";
-	elseif ($dog=="11") $imie="darek";
 	elseif ($dog=="15") $imie="clara";
 	elseif ($dog=="16") $imie="unia";
 	elseif ($dog=="17") $imie="tintin";
@@ -273,11 +272,6 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=1&dog=11&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Dark Cristal</b></font></a></center>
-		</div>
-
-		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=1&dog=17&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Tintin</b></font></a></center>
 		</div>
@@ -324,11 +318,6 @@ print ("
 		<div class=\"pasek\">
 			<a href=\"index.php?ver=1&opt=8\"><font color=\"black\">
 			<b>&nbsp;Nasi Weterani</b></font></a>
-		</div>
-
-		<div class=\"pasek\">
-			<a href=\"index.php?ver=1&opt=7\"><font color=\"black\">
-			<b>&nbsp;Tęczowy Most</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -643,7 +632,6 @@ break;
 default:
 
 	if ($dog=="7") $imie="puppies/puppies";
-	elseif ($dog=="11") $imie="darek";
 	elseif ($dog=="15") $imie="clara";
 	elseif ($dog=="16") $imie="unia";
 	elseif ($dog=="17") $imie="tintin";
@@ -721,11 +709,6 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=2&dog=11&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Dark Cristal</b></font></a></center>
-		</div>
-
-		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=2&dog=17&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Tintin</b></font></a></center>
 		</div>
@@ -772,11 +755,6 @@ print ("
 		<div class=\"pasek\">
 			<a href=\"index.php?ver=2&opt=8\"><font color=\"black\">
 			<b>&nbsp;Unsere Veteranen</b></font></a>
-		</div>
-
-		<div class=\"pasek\">
-			<a href=\"index.php?ver=2&opt=7\"><font color=\"black\">
-			<b>&nbsp;Regenbogenbrücke</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -1081,7 +1059,6 @@ break;
 default:
 
 	if ($dog=="7") $imie="puppies/puppies";
-	elseif ($dog=="11") $imie="darek";
 	elseif ($dog=="15") $imie="clara";
 	elseif ($dog=="16") $imie="unia";
 	elseif ($dog=="17") $imie="tintin";
@@ -1159,11 +1136,6 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=3&dog=11&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Dark Cristal</b></font></a></center>
-		</div>
-
-		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=3&dog=17&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Tintin</b></font></a></center>
 		</div>
@@ -1210,11 +1182,6 @@ print ("
 		<div class=\"pasek\">
 			<a href=\"index.php?ver=3&opt=8\"><font color=\"black\">
 			<b>&nbsp;Our Veterans</b></font></a>
-		</div>
-
-		<div class=\"pasek\">
-			<a href=\"index.php?ver=3&opt=7\"><font color=\"black\">
-			<b>&nbsp;Rainbow Bridge</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
