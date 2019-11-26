@@ -16,6 +16,30 @@ print ("
   </tr>
    <td align=\"center\" colspan=7><font size=6><b>2019</b></font></td>
   </tr>
+   <td>25.08.2019</td>
+   <td>Golub-Dobrzyń</td>
+   <td>krajowa</td>
+   <td>otwarta</td>
+   <td>J. Olszewski</td>
+   <td>doskonała</td>
+   <td>I lokata, CWC, Najlepszy Dorosły Pies, Zwycięzca Rasy (BOB)</td>
+  </tr>
+   <td>10.08.2019</td>
+   <td>Sopot</td>
+   <td>międzynarodowa</td>
+   <td>pośrednia</td>
+   <td>N. Sedyh (RU)</td>
+   <td>doskonała</td>
+   <td>I lokata, CWC, resCACIB</td>
+  </tr>
+   <td>22.06.2019</td>
+   <td>Szczecin</td>
+   <td>międzynarodowa</td>
+   <td>otwarta</td>
+   <td>J. Opara</td>
+   <td>doskonała</td>
+   <td>II lokata</td>
+  </tr>
    <td>7.04.2019</td>
    <td>Zajećar (SRB)</td>
    <td>międzynarodowa</td>

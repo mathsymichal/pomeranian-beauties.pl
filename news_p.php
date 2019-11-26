@@ -15,6 +15,45 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>26.11.19</b> - Bardzo długo nie dawaliśmy znać co u nas, a trochę się działo :-) Amon zakończył (i uzyskał
+już dyplom) Championat Polski!<br /><br />
+
+<center><img src=\"./amon0.jpg\" alt=\"\"></center><br />
+
+Sasha rozpoczął swoją karierę wystawową i to z dużymi sukcesami (wszystkie wyniki w linkach chłopaków \"Wystawy\").<br /><br />
+
+<center><img src=\"./sasha0.jpg\" alt=\"\"></center><br />
+
+Niestety pożegnaliśmy, po krótkiej ale ciężkiej chorobie, naszego czarnego księcia Dark Cristal de la Geode... Naszego przecudnego Darka. Do tej pory nie potrafimy się z tym oswoić. To był wspaniały pies, nie tylko eksterierowo, ale przede wszystkim miał niesamowicie wspaniały charakter. Pozostanie z nami, w naszych myślach, naszym sercu do końca naszych dni...<br /><br />
+
+<center><img src=\"./darek11.jpg\" alt=\"\"></center><br />
+
+Mieliśmy też szczeniaczki, których tatą jest nasz gość Jefferson de la Geode :-) Scarlet
+O'Hara \"Clara\" urodziła czworaczki (dwie dziewczynki i dwóch chłopców), a Unique \"Unia\"
+dwie rubinowe dziewczynki. Pozostaną z nami dwie dziewczynki – po Clarze Georgia On My
+Mind \"Georgia\"...<br /><br />
+
+<center><img src=\"./georgia0.jpg\" alt=\"\"></center><br />
+
+... i po Unii Hula Girl \"Hula\" :-)<br /><br />
+
+<center><img src=\"./hula0.jpg\" alt=\"\"></center><br />
+
+Dwie cudne iskierki, które
+wnoszą sporo zamieszania, radości i \"życia\" do naszego domku i naszego stadka.<br /><br />
+
+Jak zawsze zapraszamy do naszego \"Albumu rodzinnego\" na nową porcję zdjęć!<br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>12.04.19</b> - I jeszcze raz nasz gość z Francji, Jefferson de la Geode!<br /><br />
 
 <center><img src=\"./jefferson1.jpg\" alt=\"\"></center>

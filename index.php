@@ -282,13 +282,13 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=1&dog=20&opt=0\"><font color=\"yellow\" size=\"4\">
-			<b>Amon</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+			<center><a href=\"./index.php?ver=1&dog=20&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Amon</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=1&dog=21&opt=0\"><font color=\"yellow\" size=\"4\">
-			<b>Double Trouble For Rival</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+			<center><a href=\"./index.php?ver=1&dog=21&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Double Trouble For Rival</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
@@ -331,8 +331,8 @@ print ("
 		</div>
 		
 		<div class=\"pasek\">
-			<a href=\"index.php?ver=1&opt=5\"><font color=\"yellow\">
-			<b>&nbsp;Album domowy</b></font>&nbsp;<img src=\"./new.png\"></a>
+			<a href=\"index.php?ver=1&opt=5\"><font color=\"black\">
+			<b>&nbsp;Album domowy</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -437,7 +437,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Mł. Champ. PL<br />AMON Sylena</b><br><br>b &amp; t<br><br>ur: 23.09.2017<br><br>
+  <center><b>Champ. PL<br />Mł. Champ. PL<br />AMON Sylena</b><br><br>b &amp; t<br><br>ur: 23.09.2017<br><br>
 	Hodowca:<br>Jerzy Olszewski</center>
 		<br /><hr />
 	</div>
@@ -719,13 +719,13 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=2&dog=20&opt=0\"><font color=\"yellow\" size=\"4\">
-			<b>Amon</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+			<center><a href=\"./index.php?ver=2&dog=20&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Amon</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=2&dog=21&opt=0\"><font color=\"yellow\" size=\"4\">
-			<b>Double Trouble For Rival</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+			<center><a href=\"./index.php?ver=2&dog=21&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Double Trouble For Rival</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
@@ -768,8 +768,8 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<a href=\"index.php?ver=2&opt=5\"><font color=\"yellow\">
-			<b>&nbsp;Fotoalbum</b></font>&nbsp;<img src=\"./new.png\"></a>
+			<a href=\"index.php?ver=2&opt=5\"><font color=\"black\">
+			<b>&nbsp;Fotoalbum</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -874,7 +874,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Jug. Champ. PL<br />AMON Sylena</b><br><br>b &amp; t<br><br>geb: 23.09.2017<br><br>
+  <center><b>Champ. PL<br />Jug. Champ. PL<br />AMON Sylena</b><br><br>b &amp; t<br><br>geb: 23.09.2017<br><br>
 	Züchter:<br>Jerzy Olszewski</center>
 		<br /><hr />
 	</div>
@@ -1146,13 +1146,13 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=3&dog=20&opt=0\"><font color=\"yellow\" size=\"4\">
-			<b>Amon</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+			<center><a href=\"./index.php?ver=3&dog=20&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Amon</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=3&dog=21&opt=0\"><font color=\"yellow\" size=\"4\">
-			<b>Double Trouble For Rival</b></font>&nbsp;<img src=\"./new.png\"></a></center>
+			<center><a href=\"./index.php?ver=3&dog=21&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Double Trouble For Rival</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
@@ -1195,8 +1195,8 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<a href=\"index.php?ver=3&opt=5\"><font color=\"yellow\">
-			<b>&nbsp;Photo album</b></font>&nbsp;<img src=\"./new.png\"></a>
+			<a href=\"index.php?ver=3&opt=5\"><font color=\"black\">
+			<b>&nbsp;Photo album</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -1301,7 +1301,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Jun. Champ. PL<br />AMON Sylena</b><br><br>b &amp; t<br><br>born: 23.09.2017<br><br>
+  <center><b>Champ. PL<br />Jun. Champ. PL<br />AMON Sylena</b><br><br>b &amp; t<br><br>born: 23.09.2017<br><br>
 	Breeder:<br>Jerzy Olszewski</center>
 		<br /><hr />
 	</div>

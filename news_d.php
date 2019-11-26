@@ -15,6 +15,52 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>26.11.19</b> - Lange haben wir uns nich gemeldet, doch ein bischen war bei uns los. Amon hat schon
+seinen Titel Polnischer Champion erworben!<br /><br />
+
+<center><img src=\"./amon0.jpg\" alt=\"\"></center><br />
+
+Sasha hat seine Ausstellungskariere mit viel Erfolg angefangen (ueber die Ergebnisse der Buben koennt ihr in ihren Links
+\"Ausstellungen\" lesen).<br /><br />
+
+<center><img src=\"./sasha0.jpg\" alt=\"\"></center><br />
+
+Leider haben wir, nach kurzer aber schwerer Krankheit, Abschied von unserem einmaligen
+und wunderbaren schwarzen Prinz Dark Cristal de la Geode \"Darek\", genommen. Bis heute
+koennen wir damit nicht fertig warden. Darek war, wie ich sagte, einmalig... Nicht nur vom
+Eksterier, vor allem hatte er so ein fabelhaftes Wesen. Er bleibt mit uns, er bleibt in unseren
+Herzen, in unserer Erinnerung bis auf unser Ende...<br /><br />
+
+<center><img src=\"./darek11.jpg\" alt=\"\"></center><br />
+
+In der Zwischenzeit hatten wir auch Welpen. Der Vati von beiden wuerfen (Scarlet O'Hara
+\"Clara\" brachte Ruby Vierlinge auf die Welt, zwei Buben und zwei Maedchen, und Unique \"Unia\"
+zwei Ruby Madchen) ist unser Gast Jefferson de la Geode. Mit uns bleibt Georgia On My
+Mind \"Georia\" nach Clara...<br /><br />
+
+<center><img src=\"./georgia0.jpg\" alt=\"\"></center><br />
+
+... und Hula Girl \"Hula\" nach Unia :-)<br /><br />
+
+<center><img src=\"./hula0.jpg\" alt=\"\"></center><br />
+
+Das sind zwei
+Verspielte, liebe Wesen, die viel Freude, Liebe und \"Leben\" in unser Haus und in unser Rudel
+bringen.<br /><br />
+
+Und wie immer laden wir euch herzlich ein in unser \"Fotoalbum\" reinzuschauen, da sind
+neue Fotos von unseren Hundis zu sehen!<br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>12.04.19</b> - Unser Gast aus Frankreich, Jefferson de la Geode!<br /><br />
 
 <center><img src=\"./jefferson1.jpg\" alt=\"\"></center>

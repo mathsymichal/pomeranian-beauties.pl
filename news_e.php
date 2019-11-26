@@ -15,6 +15,43 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>26.11.19</b> - We haven't updated you for a while, and it has been an intense and exciting time for us! Amon obtained (and already received the certificate) the Polish Champion title!<br /><br />
+
+<center><img src=\"./amon0.jpg\" alt=\"\"></center><br />
+
+Sasha began his dog show career in great style (you can find the boys' exact results on their individual pages).<br /><br />
+
+<center><img src=\"./sasha0.jpg\" alt=\"\"></center><br />
+
+We have sadly said goodbye, after a short but heavy illness, to our black prince Dark Cristal de la Geode... Our wonderful \"Darek\". We still cannot accept this fact. He was a wonderful dog, not only in terms of his looks, but most of all because of his absolutely amazing character. He will stay in our thoughts and our hearts till the end of our days...<br /><br />
+
+<center><img src=\"./darek11.jpg\" alt=\"\"></center><br />
+
+We have also had puppies! Their daddy is our French visitor Jefferson de la Geode :-) Scarlet
+O'Hara \"Clara\" gave birth to four babies (two ruby girls and two ruby boys), and Unique \"Unia\"
+to two ruby girls. Two girls will stay with us - Clara's daughter Georgia On My
+Mind \"Georgia\"...<br /><br />
+
+<center><img src=\"./georgia0.jpg\" alt=\"\"></center><br />
+
+... and Unia's girl Hula Girl \"Hula\" :-)<br /><br />
+
+<center><img src=\"./hula0.jpg\" alt=\"\"></center><br />
+
+Two gorgeus sparks! They bring plenty of joy and happy noise to our house!<br /><br />
+
+As always, come and have a look at some new pictures we've shared in our \"Photo album\"!<br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>12.04.19</b> - And here, once again, is our new visitor from France: Jefferson de la Geode!<br /><br />
 
 <center><img src=\"./jefferson1.jpg\" alt=\"\"></center>

@@ -16,6 +16,30 @@ print ("
   </tr>
    <td align=\"center\" colspan=7><font size=6><b>2019</b></font></td>
   </tr>
+   <td>25.08.2019</td>
+   <td>Golub-Dobrzyń</td>
+   <td>National</td>
+   <td>Offene Klasse</td>
+   <td>J. Olszewski</td>
+   <td>Vorzueglich</td>
+   <td>V1, CWC, Best Dog, BOB</td>
+  </tr>
+   <td>10.08.2019</td>
+   <td>Sopot</td>
+   <td>International</td>
+   <td>Zwischen Kl.</td>
+   <td>N. Sedyh (RU)</td>
+   <td>Vorzueglich</td>
+   <td>V1, CWC, resCACIB</td>
+  </tr>
+   <td>22.06.2019</td>
+   <td>Szczecin</td>
+   <td>International</td>
+   <td>Offene Klasse</td>
+   <td>J. Opara</td>
+   <td>Vorzueglich</td>
+   <td>V2</td>
+  </tr>
    <td>7.04.2019</td>
    <td>Zajećar (SRB)</td>
    <td>International</td>
