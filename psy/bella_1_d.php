@@ -16,7 +16,7 @@ Und dann, als sie ungefähr 5 Monate alt war, hatte sie einen Unfall. Drei Opera
  </p>
  
 <center><img src=\"./psy/clara0.jpg\" alt=\"\"><br /><br />
-<b>SCARLETT O'HARA Pomeranian Beautie</b></center>
+<b>SCARLETT O'HARA Pomeranian Beautie</b></center><br />
  
  </div> 
  
