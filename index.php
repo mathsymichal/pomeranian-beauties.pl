@@ -202,6 +202,7 @@ default:
 	elseif ($dog=="19") $imie="tini";
 	elseif ($dog=="20") $imie="amon";
 	elseif ($dog=="21") $imie="sasha";
+	elseif ($dog=="22") $imie="bella";
 	
 	if ($dog != "7") print ("
 
@@ -309,6 +310,11 @@ print ("
 			<center><a href=\"./index.php?ver=1&dog=19&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Tiny Dancer</b></font></a></center>
 		</div>
+		
+		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=1&dog=22&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Belle Époque</b></font></a></center>
+		</div>
 
 		<div class=\"pasek\">
 			<a href=\"./index.php?ver=1&dog=7&opt=0\"><font color=\"black\">
@@ -383,7 +389,7 @@ case "":
 	print ("
 	<div id=\"imie_rodowod\">
   <center><b>SCARLETT O'HARA Pomeranian Beauties</b><br><br>ruby<br><br>ur: 30.03.2013<br><br>
-	Hodowca:<br>Ewa &amp; Witold Rudzinscy</center>
+	Hodowca:<br>Ewa &amp; Witold Rudzińscy</center>
 		<br /><hr />
 	</div>
  
@@ -405,7 +411,7 @@ case "":
 	print ("
 	<div id=\"imie_rodowod\">
   <center><b>Interchamp.<br />Multi Champ.<br />TINTIN Pomeranian Beauties</b><br><br>b &amp; t<br><br>ur: 28.06.2014<br><br>
-	Hodowca:<br>Ewa &amp; Witold Rudzinscy</center>
+	Hodowca:<br>Ewa &amp; Witold Rudzińscy</center>
 		<br /><hr />
 	</div>
  
@@ -427,7 +433,7 @@ case "":
 	print ("
 	<div id=\"imie_rodowod\">
   <center><b>Champ. PL, BUL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>ur: 28.06.2014<br><br>
-	Hodowca:<br>Ewa &amp; Witold Rudzinscy</center>
+	Hodowca:<br>Ewa &amp; Witold Rudzińscy</center>
 		<br /><hr />
 	</div>
  
@@ -450,6 +456,17 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>ur: 12.04.2018<br><br>
 	Hodowca:<br>Natalia Varfolomeeva</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "22":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>BELLE ÉPOQUE Pomeranian Beauties</b><br><br>b &amp; t<br><br>ur: 24.06.2017<br><br>
+	Hodowca:<br>Ewa &amp; Witold Rudzińscy</center>
 		<br /><hr />
 	</div>
  
@@ -639,6 +656,7 @@ default:
 	elseif ($dog=="19") $imie="tini";
 	elseif ($dog=="20") $imie="amon";
 	elseif ($dog=="21") $imie="sasha";
+	elseif ($dog=="22") $imie="bella";
 	
 	if ($dog!="7") print ("
 
@@ -746,6 +764,11 @@ print ("
 			<center><a href=\"./index.php?ver=2&dog=19&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Tiny Dancer</b></font></a></center>
 		</div>
+		
+		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=2&dog=22&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Belle Époque</b></font></a></center>
+		</div>
 
 		<div class=\"pasek\">
 			<a href=\"./index.php?ver=2&dog=7&opt=0\"><font color=\"black\">
@@ -820,7 +843,7 @@ case "":
 	print ("
 	<div id=\"imie_rodowod\">
   <center><b>SCARLETT O'HARA Pomeranian Beauties</b><br><br>ruby<br><br>geb: 30.03.2013<br><br>
-	Züchter:<br>Ewa &amp; Witold Rudzinski</center>
+	Züchter:<br>Ewa &amp; Witold Rudziński</center>
 		<br /><hr />
 	</div>
  
@@ -831,7 +854,7 @@ case "":
 	print ("
 	<div id=\"imie_rodowod\">
   <center><b>UNIQUE Pomeranian Beauties</b><br><br>b &amp; t<br><br>geb: 07.07.2014<br><br>
-	Züchter:<br>Ewa &amp; Witold Rudzinski</center>
+	Züchter:<br>Ewa &amp; Witold Rudziński</center>
 		<br /><hr />
 	</div>
  
@@ -842,7 +865,7 @@ case "":
 	print ("
 	<div id=\"imie_rodowod\">
   <center><b>Interchamp.<br />Multi Champ.<br />TINTIN Pomeranian Beauties</b><br><br>b &amp; t<br><br>geb: 28.06.2014<br><br>
-	Züchter:<br>Ewa &amp; Witold Rudzinski</center>
+	Züchter:<br>Ewa &amp; Witold Rudziński</center>
 		<br /><hr />
 	</div>
  
@@ -864,7 +887,7 @@ case "":
 	print ("
 	<div id=\"imie_rodowod\">
   <center><b>Champ. PL, BUL<br />TINY DANCER Pomeranian Beauties</b><br><br>ruby<br><br>geb: 28.06.2014<br><br>
-	Züchter:<br>Ewa &amp; Witold Rudzinski</center>
+	Züchter:<br>Ewa &amp; Witold Rudziński</center>
 		<br /><hr />
 	</div>
  
@@ -891,6 +914,18 @@ case "":
 	</div>
  
  "); break;
+  
+ case "22":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>BELLE ÉPOQUE Pomeranian Beauties</b><br><br>b &amp; t<br><br>geb: 24.06.2017<br><br>
+	Züchter:<br>Ewa &amp; Witold Rudziński</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+ 
  
 }		
 
@@ -1066,6 +1101,7 @@ default:
 	elseif ($dog=="19") $imie="tini";
 	elseif ($dog=="20") $imie="amon";
 	elseif ($dog=="21") $imie="sasha";
+	elseif ($dog=="22") $imie="bella";
 	
 	if ($dog != "7") print ("
 
@@ -1172,6 +1208,11 @@ print ("
 		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=3&dog=19&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Tiny Dancer</b></font></a></center>
+		</div>
+		
+		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=3&dog=22&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Belle Époque</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
@@ -1314,6 +1355,17 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>born: 12.04.2018<br><br>
 	Breeder:<br>Natalia Varfolomeeva</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "22":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>BELLE ÉPOQUE Pomeranian Beauties</b><br><br>b &amp; t<br><br>born: 24.06.2017<br><br>
+	Breeder:<br>Ewa &amp; Witold Rudziński</center>
 		<br /><hr />
 	</div>
  
