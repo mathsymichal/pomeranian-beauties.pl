@@ -14,6 +14,24 @@ print ("
    <td><b>Ocena</b></td>
    <td><b>Tytuły</b></td>
   </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2020</b></font></td>
+  </tr>
+   <td>19.09.2020,</td>
+   <td>Słupsk</td>
+   <td>krajowa</td>
+   <td>otwarta</td>
+   <td>K. Czechowski</td>
+   <td>doskonała</td>
+   <td>I lokata, CWC</td>
+  </tr>
+   <td>15.02.2020</td>
+   <td>Bydgoszcz</td>
+   <td>krajowa</td>
+   <td>pośrednia</td>
+   <td>N. Sedykh (RU)</td>
+   <td>doskonała</td>
+   <td>III lokata</td>
+  </tr>
    <td align=\"center\" colspan=7><font size=6><b>2019</b></font></td>
   </tr>
    <td>29.09.2019,</td>

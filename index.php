@@ -203,6 +203,7 @@ default:
 	elseif ($dog=="20") $imie="amon";
 	elseif ($dog=="21") $imie="sasha";
 	elseif ($dog=="22") $imie="bella";
+	elseif ($dog=="23") $imie="jefferson";
 	
 	if ($dog != "7") print ("
 
@@ -293,6 +294,11 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=1&dog=23&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Jefferson</b></font></a></center>
+		</div>
+
+		<div class=\"pasek\">
 			&nbsp;Nasze suczki:
 		</div>
 		
@@ -314,11 +320,6 @@ print ("
 		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=1&dog=22&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Belle Époque</b></font></a></center>
-		</div>
-
-		<div class=\"pasek\">
-			<a href=\"./index.php?ver=1&dog=7&opt=0\"><font color=\"black\">
-			<b>&nbsp;Szczenięta</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -454,7 +455,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>ur: 12.04.2018<br><br>
+  <center><b>Champ. PL<br />Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>ur: 12.04.2018<br><br>
 	Hodowca:<br>Natalia Varfolomeeva</center>
 		<br /><hr />
 	</div>
@@ -467,6 +468,17 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>BELLE ÉPOQUE Pomeranian Beauties</b><br><br>b &amp; t<br><br>ur: 24.06.2017<br><br>
 	Hodowca:<br>Ewa &amp; Witold Rudzińscy</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "22":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>JEFFERSON de la Geode</b><br><br>ruby<br><br>ur: 29.04.2014<br><br>
+	Hodowca:<br>Roger Madec</center>
 		<br /><hr />
 	</div>
  
@@ -657,6 +669,7 @@ default:
 	elseif ($dog=="20") $imie="amon";
 	elseif ($dog=="21") $imie="sasha";
 	elseif ($dog=="22") $imie="bella";
+	elseif ($dog=="23") $imie="jefferson";
 	
 	if ($dog!="7") print ("
 
@@ -747,6 +760,11 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=2&dog=23&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Jefferson</b></font></a></center>
+		</div>
+
+		<div class=\"pasek\">
 			&nbsp;Unsere Hündinnen:
 		</div>
 		
@@ -768,11 +786,6 @@ print ("
 		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=2&dog=22&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Belle Époque</b></font></a></center>
-		</div>
-
-		<div class=\"pasek\">
-			<a href=\"./index.php?ver=2&dog=7&opt=0\"><font color=\"black\">
-			<b>&nbsp;Welpen</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -908,7 +921,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>geb: 12.04.2018<br><br>
+  <center><b>Champ. PL<br />Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>geb: 12.04.2018<br><br>
 	Züchter:<br>Natalia Varfolomeeva</center>
 		<br /><hr />
 	</div>
@@ -925,7 +938,17 @@ case "":
 	</div>
  
  "); break;
+  
+ case "23":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>JEFFERSON de la Geode</b><br><br>ruby<br><br>geb: 29.04.2014<br><br>
+	Züchter:<br>Roger Madec</center>
+		<br /><hr />
+	</div>
  
+ "); break;
  
 }		
 
@@ -1102,6 +1125,7 @@ default:
 	elseif ($dog=="20") $imie="amon";
 	elseif ($dog=="21") $imie="sasha";
 	elseif ($dog=="22") $imie="bella";
+	elseif ($dog=="23") $imie="jefferson";
 	
 	if ($dog != "7") print ("
 
@@ -1192,6 +1216,11 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=3&dog=23&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Jefferson</b></font></a></center>
+		</div>
+
+		<div class=\"pasek\">
 			&nbsp;Our girls:
 		</div>
 		
@@ -1213,11 +1242,6 @@ print ("
 		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=3&dog=22&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Belle Époque</b></font></a></center>
-		</div>
-
-		<div class=\"pasek\">
-			<a href=\"./index.php?ver=3&dog=7&opt=0\"><font color=\"black\">
-			<b>&nbsp;Puppies</b></font></a>
 		</div>
 
 		<div class=\"pasek\">
@@ -1353,7 +1377,7 @@ case "":
 
 	print ("
 	<div id=\"imie_rodowod\">
-  <center><b>Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>born: 12.04.2018<br><br>
+  <center><b>Champ. PL<br />Natali Teodorus DOUBLE TROUBLE FOR RIVAL</b><br><br>b &amp; t<br><br>born: 12.04.2018<br><br>
 	Breeder:<br>Natalia Varfolomeeva</center>
 		<br /><hr />
 	</div>
@@ -1366,6 +1390,17 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>BELLE ÉPOQUE Pomeranian Beauties</b><br><br>b &amp; t<br><br>born: 24.06.2017<br><br>
 	Breeder:<br>Ewa &amp; Witold Rudziński</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+ 
+ case "23":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>JEFFERSON de la Geode</b><br><br>ruby<br><br>born: 29.04.2014<br><br>
+	Breeder:<br>Roger Madec</center>
 		<br /><hr />
 	</div>
  

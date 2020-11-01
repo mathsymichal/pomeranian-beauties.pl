@@ -15,6 +15,39 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>02.11.20</b> - Wir haben unsere Aktualisierung sehr vernachlaessig, aber das war... ist ein sehr merkwuerdiges Jahr, ich denke fuer uns Alle. Und in der Zeit war bei uns ein bischen los! :-)<br /><br />
+
+Am beteudensten ist die Tatsache, dass Jefferson de la Geode ab Maerz dieses Jahres (2020), der bei uns Gast war, unser ist! Ab jetzt hat er auch  seinen Link unter unseren Jungs!<br /><br />
+
+<center><img src=\"./psy/jefferson0.jpg\" alt=\"\"></center><br />
+
+Fantastisch ist auch das, dass unser Kleiner suesser Natali Teodorus Double Trouble For Rival \"Sasha\" den PL Championat bedendet hat! :-D<br /><br />
+
+<center><img src=\"./sasha1.jpg\" alt=\"\"></center><br />
+
+
+Wir hatten auch einen \"kleinen\" Rudel Welpen :-) Unique \"Unia\" Pomeranian Beauties hat uns mit sieben Wonneproppen ueberrascht, sie ist eine wunderbare Mama. Ein b&amp;t Madchen von ihnen, Jambalaya , bleibt mit uns!<br /><br />
+
+<center><img src=\"./puppies2.jpg\" alt=\"\"></center><br />
+
+Tiny Dancer \"Tiny\" wurde  Mama von drei ruby Welpen. Vati von diesen Wuerfen ist Jefferson de la Geode. Und Scarlet O'Hara \"Clara\" Pomeranian Beauties hat im August ein \"Einzelkind\" auf die Welt gebracht, Stolzer Vati von dem Ruby Buben ist Amon Sylena.<br /><br />
+
+<center><img src=\"./puppies3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./puppies4.jpg\" alt=\"\"></center><br />
+
+Und wie immer laden wir herzlich ein in unseren Fotoalbum rein zu schauen, da sind wieder paar neue Fotos von unserem Rudel zu sehen!<br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>26.11.19</b> - Lange haben wir uns nich gemeldet, doch ein bischen war bei uns los. Amon hat schon
 seinen Titel Polnischer Champion erworben!<br /><br />
 

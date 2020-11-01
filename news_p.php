@@ -15,6 +15,38 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>02.11.20</b> - Bardzo zaniedbaliśmy aktualizacje, ale to był, a właściwie jest, taki dziwny, niezrozumiały rok... Myślę, że dla nas wszystkich. A tymczasem trochę się u nas zadziało! :-)<br /><br />
+
+Najistotniejszą sprawą jest fakt, że od marca tego roku (2020) Jefferson de la Geode, który był u nas gościem, jest już nasz! :-) Od teraz ma i on swój link wśród chłopaków, zapraszamy!<br /><br />
+
+<center><img src=\"./psy/jefferson0.jpg\" alt=\"\"></center><br />
+
+Fanstatyczną sprawą jest też zakończenie Championatu Polski przez naszego słodziaka Natali Teodorus Double Trouble For Rival \"Sashę\"! :-D<br /><br />
+
+<center><img src=\"./sasha1.jpg\" alt=\"\"></center><br />
+
+Mieliśmy też sporą gromadkę szczeniaczków :-) Unique \"Unia\" Pomeranian Beauties zaszalała i urodziłą siedmioraczki! Pięknie się nimi zajęła, cudowna z niej Mama. Z tego miotu zostaje z nami mała czarna dziewuszka Jambalaya.<br /><br />
+
+<center><img src=\"./puppies2.jpg\" alt=\"\"></center><br />
+
+Tiny Dancer \"Tiny\" Pomeranian Beauties obdarzyła nas z kolei trojaczkami – Tatą tej gromadki jest Jefferson de la Geode. No i Scarlet O'Hara \"Clara\" Pomeranian Beauties urodziła słodkiego rubinowego jedynaka, którego Tatą jest dumny Amon Sylena :-)<br /><br />
+
+<center><img src=\"./puppies3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./puppies4.jpg\" alt=\"\"></center><br />
+
+A na koniec jak zawsze zapraszamy do naszego \"Albumu rodzinnego\" na świeżą porcję zdjęć naszego stadka!<br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>26.11.19</b> - Bardzo długo nie dawaliśmy znać co u nas, a trochę się działo :-) Amon zakończył (i uzyskał
 już dyplom) Championat Polski!<br /><br />
 
