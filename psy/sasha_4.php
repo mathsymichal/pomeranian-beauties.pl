@@ -54,7 +54,7 @@ print ("
    <td>Sopot</td>
    <td>międzynarodowa</td>
    <td>młodzieży</td>
-   <td>N. Sedyh (RU)</td>
+   <td>N. Sedykh (RU)</td>
    <td>doskonała</td>
    <td>I lokata, Zwycięzca Młodzieży, Najlepszy Junior</td>
   </tr>  
