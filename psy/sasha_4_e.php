@@ -54,7 +54,7 @@ print ("
    <td>Sopot</td>
    <td>International</td>
    <td>Junior class</td>
-   <td>N. Sedyh (RU)</td>
+   <td>N. Sedykh (RU)</td>
    <td>Excellent</td>
    <td>I, Youth Winner, Best Junior</td>
   </tr>  
