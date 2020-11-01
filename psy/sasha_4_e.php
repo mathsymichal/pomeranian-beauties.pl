@@ -14,6 +14,24 @@ print ("
    <td><b>Note</b></td>
    <td><b>Awards</b></td>
   </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2020</b></font></td>
+  </tr>
+   <td>19.09.2020,</td>
+   <td>Słupsk</td>
+   <td>National</td>
+   <td>Open class</td>
+   <td>K. Czechowski</td>
+   <td>Excellent</td>
+   <td>I, CWC</td>
+  </tr>
+   <td>15.02.2020</td>
+   <td>Bydgoszcz</td>
+   <td>National</td>
+   <td>Intermediate</td>
+   <td>N. Sedykh (RU)</td>
+   <td>Excellent</td>
+   <td>III</td>
+  </tr>
    <td align=\"center\" colspan=7><font size=6><b>2019</b></font></td>
   </tr>
    <td>29.09.2019,</td>

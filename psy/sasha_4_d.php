@@ -14,6 +14,24 @@ print ("
    <td><b>Note</b></td>
    <td><b>Bewertung/Titel</b></td>
   </tr>
+   <td align=\"center\" colspan=7><font size=6><b>2020</b></font></td>
+  </tr>
+   <td>19.09.2020,</td>
+   <td>Słupsk</td>
+   <td>National</td>
+   <td>Offene Klasse</td>
+   <td>K. Czechowski</td>
+   <td>Vorzueglich</td>
+   <td>V1, CWC</td>
+  </tr>
+   <td>15.02.2020</td>
+   <td>Bydgoszcz</td>
+   <td>National</td>
+   <td>Zwischen Kl.</td>
+   <td>N. Sedykh (RU)</td>
+   <td>Vorzueglich</td>
+   <td>V3</td>
+  </tr>
    <td align=\"center\" colspan=7><font size=6><b>2019</b></font></td>
   </tr>
    <td>29.09.2019,</td>
@@ -36,7 +54,7 @@ print ("
    <td>Sopot</td>
    <td>International</td>
    <td>Jugendkl.</td>
-   <td>N. Sedyh (RU)</td>
+   <td>N. Sedykh (RU)</td>
    <td>Vorzueglich</td>
    <td>V1, Youth Winner, Best Junior</td>
   </tr>  

@@ -15,6 +15,38 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>02.11.20</b> - We have neglected updating our website but this has been such a strange year, like nothing we have experienced before... For all of us I'm afraid! But life goes on and things have still been happening for us! ;-)<br /><br />
+
+The most important bit is that since March 2020 the gorgeous Jefferson de la Geode who had been visiting us before is permanently ours! :-) He now also has his page which you can find on the left.<br /><br />
+
+<center><img src=\"./psy/jefferson0.jpg\" alt=\"\"></center><br />
+
+Another great moment came when our sweet Natali Teodorus Double Trouble For Rival \"Sasha\" became a Champion of Poland! :-D<br /><br />
+
+<center><img src=\"./sasha1.jpg\" alt=\"\"></center><br />
+
+We have also had quite a few puppies! :-) Unique \"Unia\" Pomeranian Beauties really went for it and gave birth to 7 babies! She took a wonderful care of them, she is simply the perfect mummy. From that litter a little b&amp;t girl Jambalaya will stay with us.<br /><br />
+
+<center><img src=\"./puppies2.jpg\" alt=\"\"></center><br />
+
+Tiny Dancer \"Tiny\" Pomeranian Beauties gave us a lovely ruby triple of babies. Their daddy is Jefferson de la Geode. Finally, Scarlet O'Hara \"Clara\" Pomeranian Beauties gave birth to one sweet ruby boy whose daddy is the proud Amon Sylena :-)<br /><br />
+
+<center><img src=\"./puppies3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./puppies4.jpg\" alt=\"\"></center><br />
+
+And traditionally we are finishing with an invitation for you to have a look at our \"Photo album\" for some fresh pictures of our bunch!<br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>26.11.19</b> - We haven't updated you for a while, and it has been an intense and exciting time for us! Amon obtained (and already received the certificate) the Polish Champion title!<br /><br />
 
 <center><img src=\"./amon0.jpg\" alt=\"\"></center><br />
