@@ -473,7 +473,7 @@ case "":
  
  "); break;
   
- case "22":
+ case "23":
 
 	print ("
 	<div id=\"imie_rodowod\">
