@@ -195,11 +195,7 @@ break;
 default:
 
 	if ($dog=="7") $imie="puppies/puppies";
-	elseif ($dog=="15") $imie="clara";
-	elseif ($dog=="16") $imie="unia";
-	elseif ($dog=="17") $imie="tintin";
 	elseif ($dog=="18") $imie="maciek";
-	elseif ($dog=="19") $imie="tini";
 	elseif ($dog=="20") $imie="amon";
 	elseif ($dog=="21") $imie="sasha";
 	elseif ($dog=="22") $imie="bella";
@@ -274,11 +270,6 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=1&dog=17&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Tintin</b></font></a></center>
-		</div>
-
-		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=1&dog=18&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Little Mec</b></font></a></center>
 		</div>
@@ -300,21 +291,6 @@ print ("
 
 		<div class=\"pasek\">
 			&nbsp;Nasze suczki:
-		</div>
-		
-		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=1&dog=15&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Scarlett O'Hara</b></font></a></center>
-		</div>
-		
-		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=1&dog=16&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Unique</b></font></a></center>
-		</div>
-		
-		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=1&dog=19&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Tiny Dancer</b></font></a></center>
 		</div>
 		
 		<div class=\"pasek\">
@@ -661,11 +637,7 @@ break;
 default:
 
 	if ($dog=="7") $imie="puppies/puppies";
-	elseif ($dog=="15") $imie="clara";
-	elseif ($dog=="16") $imie="unia";
-	elseif ($dog=="17") $imie="tintin";
 	elseif ($dog=="18") $imie="maciek";
-	elseif ($dog=="19") $imie="tini";
 	elseif ($dog=="20") $imie="amon";
 	elseif ($dog=="21") $imie="sasha";
 	elseif ($dog=="22") $imie="bella";
@@ -740,11 +712,6 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=2&dog=17&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Tintin</b></font></a></center>
-		</div>
-
-		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=2&dog=18&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Little Mec</b></font></a></center>
 		</div>
@@ -766,21 +733,6 @@ print ("
 
 		<div class=\"pasek\">
 			&nbsp;Unsere Hündinnen:
-		</div>
-		
-		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=2&dog=15&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Scarlett O'Hara</b></font></a></center>
-		</div>
-		
-		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=2&dog=16&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Unique</b></font></a></center>
-		</div>
-		
-		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=2&dog=19&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Tiny Dancer</b></font></a></center>
 		</div>
 		
 		<div class=\"pasek\">
@@ -1117,11 +1069,7 @@ break;
 default:
 
 	if ($dog=="7") $imie="puppies/puppies";
-	elseif ($dog=="15") $imie="clara";
-	elseif ($dog=="16") $imie="unia";
-	elseif ($dog=="17") $imie="tintin";
 	elseif ($dog=="18") $imie="maciek";
-	elseif ($dog=="19") $imie="tini";
 	elseif ($dog=="20") $imie="amon";
 	elseif ($dog=="21") $imie="sasha";
 	elseif ($dog=="22") $imie="bella";
@@ -1196,11 +1144,6 @@ print ("
 		</div>
 
 		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=3&dog=17&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Tintin</b></font></a></center>
-		</div>
-
-		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=3&dog=18&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Little Mec</b></font></a></center>
 		</div>
@@ -1222,21 +1165,6 @@ print ("
 
 		<div class=\"pasek\">
 			&nbsp;Our girls:
-		</div>
-		
-		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=3&dog=15&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Scarlett O'Hara</b></font></a></center>
-		</div>
-		
-		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=3&dog=16&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Unique</b></font></a></center>
-		</div>
-		
-		<div class=\"pasek\">
-			<center><a href=\"./index.php?ver=3&dog=19&opt=0\"><font color=\"black\" size=\"4\">
-			<b>Tiny Dancer</b></font></a></center>
 		</div>
 		
 		<div class=\"pasek\">

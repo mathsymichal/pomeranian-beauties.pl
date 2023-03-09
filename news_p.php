@@ -15,6 +15,24 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>10.03.23</b> - Minęło sporo czasu od ostatniej aktualizacji... A u nas się trochę zadziało!<br /><br />
+
+<center><img src=\"./vpuppies1.jpg\" alt=\"\"></center><br />
+
+Mamy cudowną wiadomość! 10 lutego 2023 roku przyszły na świat siedmioraczki po Double Trouble For Rival \"Sasha\" i Georgia on my Mind \"Giogio\" Pomeranian Beauties :-) Nie uwierzycie - na świat przyszło 7 chłopaków! Jeden rubinek i sześć black&amp;tan.<br /><br />
+
+<center><img src=\"./vpuppies0.jpg\" alt=\"\"></center><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>02.11.20</b> - Bardzo zaniedbaliśmy aktualizacje, ale to był, a właściwie jest, taki dziwny, niezrozumiały rok... Myślę, że dla nas wszystkich. A tymczasem trochę się u nas zadziało! :-)<br /><br />
 
 Najistotniejszą sprawą jest fakt, że od marca tego roku (2020) Jefferson de la Geode, który był u nas gościem, jest już nasz! :-) Od teraz ma i on swój link wśród chłopaków, zapraszamy!<br /><br />

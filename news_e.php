@@ -15,6 +15,24 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>10.03.23</b> - Long time no see since our last update... But things never stopped happening at ours!<br /><br />
+
+<center><img src=\"./vpuppies1.jpg\" alt=\"\"></center><br />
+
+We have wonderful news! On February 10th 2023 our Georgia on my Mind \"Giogio\" Pomeranian Beauties gave birth to... seven boys! One ruby and six black&amp;tan. The proud daddy of the band is our Double Trouble For Rival \"Sasha\".<br /><br />
+
+<center><img src=\"./vpuppies0.jpg\" alt=\"\"></center><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>02.11.20</b> - We have neglected updating our website but this has been such a strange year, like nothing we have experienced before... For all of us I'm afraid! But life goes on and things have still been happening for us! ;-)<br /><br />
 
 The most important bit is that since March 2020 the gorgeous Jefferson de la Geode who had been visiting us before is permanently ours! :-) He now also has his page which you can find on the left.<br /><br />

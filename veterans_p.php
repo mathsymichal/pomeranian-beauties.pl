@@ -6,32 +6,56 @@ print ("
 
   <center>
     <font color=\"navy\" size=\"4\">
-      <br /><b>Nasi Weterani</b>
+      <br /><b>Our Veterans</b>
     </font>
   </center><br />
-
+	
     <div class=\"news\">
 	<center>
 
-	<font color=\"black\" size=\"5\"><b>CASSANDRA vom Paulinenhof \"Casia\"</b></font><br /><br />
+	<font color=\"black\" size=\"5\"><b>TINTIN Pomeranian Beauties</b></font><br /><br />
 
-	<font color=\"black\" size=\"4\"><b>ur. 13.05.2007 r.</b></font><br /><br />
+	<font color=\"black\" size=\"4\"><b>ur. 28.06.2014</b></font><br /><br />
 
-	<img src=\"./psy/galeria/veterans/casia.jpg\" alt=\"CASSANDRA vom Paulinenhof\"></center><br />
+	<font color=\"navy\" size=\"4\"><b>Interchampion</b></font><br />
+	<font color=\"navy\" size=\"4\"><b>Multi Champion</b></font><br /><br />
+
+	<img src=\"./psy/galeria/veterans/tintin.jpg\" alt=\"TINTIN Pomeranian Beauties\"></center><br />
 	</center>		
     </div>
 
     <div class=\"news\">
 	<center>
 
-	<font color=\"black\" size=\"5\"><b>DAYLIGHT Pomeranian Beauties \"Dayla\"</b></font><br /><br />
+	<font color=\"black\" size=\"5\"><b>SCARLETT O'HARA Pomeranian Beauties \"Clara\"</b></font><br /><br />
 
-	<font color=\"black\" size=\"4\"><b>ur. 26.04.2008 r.</b></font><br /><br />
+	<font color=\"black\" size=\"4\"><b>ur. 30.03.2013</b></font><br /><br />
 
-	<font color=\"navy\" size=\"4\"><b>Champion Polski i Rosji</b></font><br />
-	<font color=\"navy\" size=\"4\"><b>Młodzieżowy Champion Polski</b></font><br /><br />
+	<img src=\"./psy/galeria/veterans/clara.jpg\" alt=\"SCARLETT O'HARA Pomeranian Beauties\"></center><br />
+	</center>		
+    </div>
 
-	<img src=\"./psy/galeria/veterans/dayla.jpg\" alt=\"DAYLIGHT Pomeranian Beauties\"></center><br />
+    <div class=\"news\">
+	<center>
+
+	<font color=\"black\" size=\"5\"><b>TINY DANCER Pomeranian Beauties \"Tini\"</b></font><br /><br />
+
+	<font color=\"black\" size=\"4\"><b>ur. 28.06.2014</b></font><br /><br />
+
+	<font color=\"navy\" size=\"4\"><b>Champion Polski i Bułgarii</b></font><br /><br />
+
+	<img src=\"./psy/galeria/veterans/tini.jpg\" alt=\"TINY DANCER Pomeranian Beauties\"></center><br />
+	</center>		
+    </div>
+
+    <div class=\"news\">
+	<center>
+
+	<font color=\"black\" size=\"5\"><b>UNIQUE Pomeranian Beauties \"Unia\"</b></font><br /><br />
+
+	<font color=\"black\" size=\"4\"><b>ur. 04.07.2014</b></font><br /><br />
+
+	<img src=\"./psy/galeria/veterans/unia.jpg\" alt=\"UNIQUE Pomeranian Beauties\"></center><br />
 	</center>		
     </div>
 

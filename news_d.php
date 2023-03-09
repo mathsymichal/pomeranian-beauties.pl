@@ -15,6 +15,27 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>10.03.23</b> - 
+
+
+Etwas Zeit, seid der letzten Aktualisierung, ist vergangen, aber bei uns war bischen los!<br /><br />
+
+<center><img src=\"./vpuppies1.jpg\" alt=\"\"></center><br />
+
+Wir haben eine wunderbare Nachricht! Am 10.02 2023, hat Georgia on my Mind \"Giogio\" Pomeranian Beauties 7 Buben auf die Welt gebracht :-) Einen Ruby und sechs black&amp;tan. Stolzer Papi der \"Sieblinge\" ist Double Trouble For Rival \"Sasha\".<br /><br />
+
+<center><img src=\"./vpuppies0.jpg\" alt=\"\"></center><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>02.11.20</b> - Wir haben unsere Aktualisierung sehr vernachlaessig, aber das war... ist ein sehr merkwuerdiges Jahr, ich denke fuer uns Alle. Und in der Zeit war bei uns ein bischen los! :-)<br /><br />
 
 Am beteudensten ist die Tatsache, dass Jefferson de la Geode ab Maerz dieses Jahres (2020), der bei uns Gast war, unser ist! Ab jetzt hat er auch  seinen Link unter unseren Jungs!<br /><br />
