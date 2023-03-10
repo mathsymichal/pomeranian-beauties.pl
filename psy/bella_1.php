@@ -16,7 +16,7 @@ I wtedy, kiedy miała ok. 5 miesięcy, uległa wypadkowi. Trzy operacje, długot
  </p>
  
 <center><img src=\"./psy/clara0.jpg\" alt=\"\"><br /><br />
-<b>SCARLETT O'HARA Pomeranian Beautie</b></center>
+<b>SCARLETT O'HARA Pomeranian Beautie</b></center><br />
  
  </div> 
  

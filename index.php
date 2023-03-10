@@ -200,6 +200,7 @@ default:
 	elseif ($dog=="21") $imie="sasha";
 	elseif ($dog=="22") $imie="bella";
 	elseif ($dog=="23") $imie="jefferson";
+	elseif ($dog=="24") $imie="giogio";
 	
 	if ($dog != "7") print ("
 
@@ -296,6 +297,11 @@ print ("
 		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=1&dog=22&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Belle Époque</b></font></a></center>
+		</div>
+		
+		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=1&dog=24&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Georgia On My Mind</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
@@ -455,6 +461,17 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>JEFFERSON de la Geode</b><br><br>ruby<br><br>ur: 29.04.2014<br><br>
 	Hodowca:<br>Roger Madec</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "24":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>GEORGIA ON MY MIND Pomeranian Beauties</b><br><br>ruby<br><br>ur: 20.08.2019<br><br>
+	Hodowca:<br>Ewa &amp; Witold Rudzińscy</center>
 		<br /><hr />
 	</div>
  
@@ -642,6 +659,7 @@ default:
 	elseif ($dog=="21") $imie="sasha";
 	elseif ($dog=="22") $imie="bella";
 	elseif ($dog=="23") $imie="jefferson";
+	elseif ($dog=="24") $imie="giogio";
 	
 	if ($dog!="7") print ("
 
@@ -738,6 +756,11 @@ print ("
 		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=2&dog=22&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Belle Époque</b></font></a></center>
+		</div>
+		
+		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=2&dog=24&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Georgia On My Mind</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
@@ -897,6 +920,17 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>JEFFERSON de la Geode</b><br><br>ruby<br><br>geb: 29.04.2014<br><br>
 	Züchter:<br>Roger Madec</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "24":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>GEORGIA ON MY MIND Pomeranian Beauties</b><br><br>ruby<br><br>geb: 20.08.2019<br><br>
+	Züchter:<br>Ewa &amp; Witold Rudziński</center>
 		<br /><hr />
 	</div>
  
@@ -1074,6 +1108,7 @@ default:
 	elseif ($dog=="21") $imie="sasha";
 	elseif ($dog=="22") $imie="bella";
 	elseif ($dog=="23") $imie="jefferson";
+	elseif ($dog=="24") $imie="giogio";
 	
 	if ($dog != "7") print ("
 
@@ -1170,6 +1205,11 @@ print ("
 		<div class=\"pasek\">
 			<center><a href=\"./index.php?ver=3&dog=22&opt=0\"><font color=\"black\" size=\"4\">
 			<b>Belle Époque</b></font></a></center>
+		</div>
+		
+		<div class=\"pasek\">
+			<center><a href=\"./index.php?ver=3&dog=24&opt=0\"><font color=\"black\" size=\"4\">
+			<b>Georgia On My Mind</b></font></a></center>
 		</div>
 
 		<div class=\"pasek\">
@@ -1329,6 +1369,17 @@ case "":
 	<div id=\"imie_rodowod\">
   <center><b>JEFFERSON de la Geode</b><br><br>ruby<br><br>born: 29.04.2014<br><br>
 	Breeder:<br>Roger Madec</center>
+		<br /><hr />
+	</div>
+ 
+ "); break;
+  
+ case "24":
+
+	print ("
+	<div id=\"imie_rodowod\">
+  <center><b>GEORGIA ON MY MIND Pomeranian Beauties</b><br><br>ruby<br><br>born: 20.08.2019<br><br>
+	Breeder:<br>Ewa &amp; Witold Rudziński</center>
 		<br /><hr />
 	</div>
  

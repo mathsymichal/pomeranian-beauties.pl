@@ -23,6 +23,22 @@ Mamy cudowną wiadomość! 10 lutego 2023 roku przyszły na świat siedmioraczki
 
 <center><img src=\"./vpuppies0.jpg\" alt=\"\"></center><br />
 
+<center><img src=\"./vpuppies2.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies4.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies5.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies6.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies7.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies8.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies9.jpg\" alt=\"\"></center><br />
+
 </div>
 
 ");
