@@ -26,6 +26,22 @@ Wir haben eine wunderbare Nachricht! Am 10.02 2023, hat Georgia on my Mind \"Gio
 
 <center><img src=\"./vpuppies0.jpg\" alt=\"\"></center><br />
 
+<center><img src=\"./vpuppies2.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies4.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies5.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies6.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies7.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies8.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vpuppies9.jpg\" alt=\"\"></center><br />
+
 </div>
 
 ");
