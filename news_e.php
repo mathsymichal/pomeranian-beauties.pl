@@ -15,6 +15,61 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>08.04.23</b> - Of the seven puppies born in our last litter (on 10.02.2023) three boys are still looking for their loving families and warm new homes. The boys are fully socialised with both people and other dogs!<br /><br />
+
+<center>
+<video height=\"500\" controls>
+	<source src=\"vpuppies.mp4\" type=\"video/mp4\">
+	Your browser does not support the video tag.
+</video>
+</center><br />
+
+The boys could move to their new homes after 21.04 when they turn 10 weeks old (it is 15 weeks for moving abroad!). Voyager and Volver can move to homes with ambitions for both dog shows and breeding. Vanilla Sky is looking for a family that is not interested in shows and would just want to bless their home with a Cavalier friend :-)<br /><br />
+
+<center><font color=\"navy\" size=\"5\"><b>Voyager</b></font><br /><br />
+
+<center><img src=\"./voyager0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager1.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager2.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager4.jpg\" alt=\"\"></center><br />
+
+<center><font color=\"navy\" size=\"5\"><b>Volver</b></font><br /><br />
+
+<center><img src=\"./volver0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver1.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver2.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver4.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver5.jpg\" alt=\"\"></center><br />
+
+<center><font color=\"navy\" size=\"5\"><b>Vanilla Sky</b></font><br /><br />
+
+<center><img src=\"./vanillasky0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vanillasky1.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vanillasky2.jpg\" alt=\"\"></center><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>10.03.23</b> - Long time no see since our last update... But things never stopped happening at ours!<br /><br />
 
 <center><img src=\"./vpuppies1.jpg\" alt=\"\"></center><br />
