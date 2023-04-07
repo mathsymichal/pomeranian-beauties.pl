@@ -15,6 +15,61 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>08.04.23</b> - Z naszego ostatniego miotu urodzonego 10.02.2023 jeszcze trzech chłopaczków czeka na swoje kochające domki i rodzinki. Chłopaki są już całkowicie zżyte ze swoją psią i ludzką rodzinką!<br /><br />
+
+<center>
+<video height=\"500\" controls>
+	<source src=\"vpuppies.mp4\" type=\"video/mp4\">
+	Your browser does not support the video tag.
+</video>
+</center><br />
+
+Chłopaki mogą się przeprowadzać do nowych domków po 21.04, kiedy skończą 10 tygodni. Voyager i Volver mogą trafić do domków, które będą miały ochotę w przyszłości zakosztować wystaw, czy hodowli. Z kolei Vanilla Sky czeka na rodzinkę, która nie ma ambicji wystawowych i marzy po prostu o cavisiu :-)<br /><br />
+
+<center><font color=\"navy\" size=\"5\"><b>Voyager</b></font><br /><br />
+
+<center><img src=\"./voyager0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager1.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager2.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager4.jpg\" alt=\"\"></center><br />
+
+<center><font color=\"navy\" size=\"5\"><b>Volver</b></font><br /><br />
+
+<center><img src=\"./volver0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver1.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver2.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver4.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver5.jpg\" alt=\"\"></center><br />
+
+<center><font color=\"navy\" size=\"5\"><b>Vanilla Sky</b></font><br /><br />
+
+<center><img src=\"./vanillasky0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vanillasky1.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vanillasky2.jpg\" alt=\"\"></center><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>10.03.23</b> - Minęło sporo czasu od ostatniej aktualizacji... A u nas się trochę zadziało!<br /><br />
 
 <center><img src=\"./vpuppies1.jpg\" alt=\"\"></center><br />

@@ -15,6 +15,61 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>08.04.23</b> - Aus unserem letzten Wurf, der am 10. Februar 2023 geboren wurde, warten drei Rüden auf ihr liebevolles Zuhause und ihre Familien. Die Jungs haben sich bereits vollständig an ihre Hunde - und Menschenfamilie gewöhnt.<br /><br />
+
+<center>
+<video height=\"500\" controls>
+	<source src=\"vpuppies.mp4\" type=\"video/mp4\">
+	Your browser does not support the video tag.
+</video>
+</center><br />
+
+Die Jungen können ab dem 21.04. mit 10 Wochen (Ausland ab 15 Wochen) in ihr neues Zuhause umziehen. Voyager und Volver können in Haushalte gehen, die in Zukunft auf Ausstellungen gezeigt werden. Vanilla Sky wiederum wartet auf eine Familie, die keine Showambitionen hat und nur von einem Cavi träumt :-)<br /><br />
+
+<center><font color=\"navy\" size=\"5\"><b>Voyager</b></font><br /><br />
+
+<center><img src=\"./voyager0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager1.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager2.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./voyager4.jpg\" alt=\"\"></center><br />
+
+<center><font color=\"navy\" size=\"5\"><b>Volver</b></font><br /><br />
+
+<center><img src=\"./volver0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver1.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver2.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver3.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver4.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./volver5.jpg\" alt=\"\"></center><br />
+
+<center><font color=\"navy\" size=\"5\"><b>Vanilla Sky</b></font><br /><br />
+
+<center><img src=\"./vanillasky0.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vanillasky1.jpg\" alt=\"\"></center><br />
+
+<center><img src=\"./vanillasky2.jpg\" alt=\"\"></center><br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>10.03.23</b> - 
 
 
