@@ -6,7 +6,7 @@ print ("
 
   <center>
     <font color=\"navy\" size=\"4\">
-      <br /><b>Our Veterans</b>
+      <br /><b>Nasi Weterani</b>
     </font>
   </center><br />
 
