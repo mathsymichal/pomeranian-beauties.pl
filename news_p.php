@@ -27,7 +27,7 @@ Dołączył też do nas i wzmocnił drużynę chłopaków Tyson de la Geode. Wsz
 
 A jakiś czas temu zamieszkał z nami \"Hugo\" Emperor Brave Warrior Of The Night Nubra, przeuroczy i mądry Airedale Terrier. Hugo to żywiołowy chłopak, z Tysonem bawią się jak zapaśnicy, ale w stosunku do malutków Hugo zachowuje się jak najlepsza Niania.<br /><br />
 
-<center><img src=\"./hugodainty.jpg\" alt=\"\"></center><br />
+<center><img src=\"./hugodainty0.jpg\" alt=\"\"></center><br />
 
 W styczniu Georgia On My Mind \"Giogio\" Pomeranian Beauties obdarzyła nas Malutkami. Urodziło się 8 maluszków, 4 dziewczynki i 4 chłopaczków :-) Tatą tej wspaniałej gromadki jest Little Mec \"Maciek\" de la Geode :-)<br /><br />
 

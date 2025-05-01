@@ -27,7 +27,7 @@ Vor einiger Zeit verstaerkte unsere Rueden Truppe Tyson de la Geode. Ueber ihn e
 
 Und vor paar Monaten zug in unser Haus \"Hugo\" Emperor Brave Warrior Of The Night Nubra, ein lieber Kluger Airedale Terrier. Hugo ist ein sehr lebhafter Bube, mit Tyson spielen sie wie Sumo Sportler, aber den Welpen gegenueber ist Hugo wie eine beste Nanne.<br /><br />
 
-<center><img src=\"./hugodainty.jpg\" alt=\"\"></center><br />
+<center><img src=\"./hugodainty0.jpg\" alt=\"\"></center><br />
 
 Im Januar hat unsere Georgia On My Mind \"Giogio\" Pomeranian Beauties Babys auf die Welt gebracht. Es sind 8 Wonneproppen :-), 4 Maedchen und 4 Buben. Gluecklicher Papa ist unser Little Mec \"Maciek\" de la Geode :-)<br /><br />
 

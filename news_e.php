@@ -27,7 +27,7 @@ Our boys team also got reinforced by the arrival of Tyson de la Geode. You can r
 
 Also, some time ago we were joined by \"Hugo\" Emperor Brave Warrior Of The Night Nubra, a lovely and clever Airedale Terrier. Hugo is a lively boy who loves to wrestle with Tyson, but he is also the most caring nanny for our puppies!<br /><br />
 
-<center><img src=\"./hugodainty.jpg\" alt=\"\"></center><br />
+<center><img src=\"./hugodainty0.jpg\" alt=\"\"></center><br />
 
 In January Georgia On My Mind \"Giogio\" Pomeranian Beauties gave us 8 puppies: 4 boys and 4 girls :-) The proud daddy of that little bunch is Little Mec \"Maciek\" de la Geode :-)<br /><br />
 
