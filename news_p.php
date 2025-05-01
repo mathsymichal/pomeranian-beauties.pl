@@ -15,6 +15,36 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>01.05.25</b> - Minęły dwa lata od naszej ostatniej aktualizacji... I po raz kolejny bardzo Was za to przepraszam i obiecuję, że tak długa przerwa już nigdy się nie zdarzy. Mam nadzieję, że Michał, mój syn, który prowadzi naszą stronkę, mi w tym pomoże.<br /><br />
+
+A co w tym czasie się u nas wydarzyło? Otóż dorosła nam nasza dziewczynka Jambalaya Pomeranian Beauties, córka Jeffersona de la Geode i Unique Pomeranian Beauties, i w międzyczasie miała już swoje malutki. Od teraz ma też już swój osobisty link na naszej stronce.<br /><br />
+
+<center><img src=\"./psy/jamba0.jpg\" alt=\"\"></center><br />
+
+Dołączył też do nas i wzmocnił drużynę chłopaków Tyson de la Geode. Wszystko o nim również do przeczytania w jego własnym linku.<br /><br />
+
+<center><img src=\"./psy/tyson0.jpg\" alt=\"\"></center><br />
+
+A jakiś czas temu zamieszkał z nami \"Hugo\" Emperor Brave Warrior Of The Night Nubra, przeuroczy i mądry Airedale Terrier. Hugo to żywiołowy chłopak, z Tysonem bawią się jak zapaśnicy, ale w stosunku do malutków Hugo zachowuje się jak najlepsza Niania.<br /><br />
+
+<center><img src=\"./hugodainty.jpg\" alt=\"\"></center><br />
+
+W styczniu Georgia On My Mind \"Giogio\" Pomeranian Beauties obdarzyła nas Malutkami. Urodziło się 8 maluszków, 4 dziewczynki i 4 chłopaczków :-) Tatą tej wspaniałej gromadki jest Little Mec \"Maciek\" de la Geode :-)<br /><br />
+
+<center><img src=\"./giogiopuppies0.jpg\" alt=\"\"></center><br />
+
+Zaglądajcie do nas, serdecznie zapraszamy! Niebawem podzielimy się nowymi wieściami!<br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>08.04.23</b> - Z naszego ostatniego miotu urodzonego 10.02.2023 jeszcze trzech chłopaczków czeka na swoje kochające domki i rodzinki. Chłopaki są już całkowicie zżyte ze swoją psią i ludzką rodzinką!<br /><br />
 
 <center>
