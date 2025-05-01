@@ -201,6 +201,7 @@ default:
 	elseif ($dog=="23") $imie="jefferson";
 	elseif ($dog=="24") $imie="giogio";
 	elseif ($dog=="25") $imie="jamba";
+	elseif ($dog=="26") $imie="tyson";
 	
 	if ($dog != "7") print ("
 
@@ -687,6 +688,7 @@ default:
 	elseif ($dog=="23") $imie="jefferson";
 	elseif ($dog=="24") $imie="giogio";
 	elseif ($dog=="25") $imie="jamba";
+	elseif ($dog=="26") $imie="tyson";
 	
 	if ($dog!="7") print ("
 
@@ -1163,6 +1165,7 @@ default:
 	elseif ($dog=="23") $imie="jefferson";
 	elseif ($dog=="24") $imie="giogio";
 	elseif ($dog=="25") $imie="jamba";
+	elseif ($dog=="26") $imie="tyson";
 	
 	if ($dog != "7") print ("
 
