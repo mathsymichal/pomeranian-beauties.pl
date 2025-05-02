@@ -18,7 +18,7 @@ print ("
 
 		<p>Ich und Witek sind Tieraerte. Viele Jahre arbeitet wir als Klinizisten, paar Jahe in der Weterinaerinspektion, aber jetzt ist Witek schon aud der Pension und ich paar jahre auf der Rente. Unsere Ausbildung und die vielen Jahre der Praktik ware uns immer sehr behilflich be idem Leben mit unseren Hundis.</p>
 
-		<p>Wenn Du etwas mehr ueber die Rasse Cavalier King Charles Spaniel und ueber unsere Hunde erfahren moechtest - laden wir herzlich ein, bitte ruf uns an - 004858/691 39 47; +48 501 804 615 oder <a href=\"mailto:Pomeranian Beauties <ewaiwitek@poczta.fm>\">schreibe</a> zu uns, keine Frage bleibt ohne Antwort!</p>
+		<p>Wenn Du etwas mehr ueber die Rasse Cavalier King Charles Spaniel und ueber unsere Hunde erfahren moechtest - laden wir herzlich ein, bitte ruf uns an - +48 730 177 128, +48 730 177 127 oder <a href=\"mailto:Pomeranian Beauties <ewaiwitek@poczta.fm>\">schreibe</a> zu uns, keine Frage bleibt ohne Antwort!</p>
 		
 	</div>
 

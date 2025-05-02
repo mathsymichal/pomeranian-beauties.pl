@@ -18,7 +18,7 @@ print ("
 
 		<p>Oboje z Witkiem jesteśmy lekarzami weterynarii. Wiele lat pracowaliśmy w lecznictwie, kilka lat w Inspekcji Weterynaryjnej... W tej chwili Witek jest już na emeryturze, a ja chwilowo na rencie... Nasze wykształcenie i wieloletnia praktyka są nam ogromnie przydatne w obcowaniu z naszymi piesiami.</p>
 
-		<p>Jeżeli pragniesz dowiedzieć się czegoś więcej o Cavalier King Charles Spanielach, lub też o naszych pieskach, serdecznie zapraszamy! Możesz się z nami skontaktować telefonicznie - 58/691 39 47; +48 501 804 615, lub napisać do nas <a href=\"mailto:Pomeranian Beauties <ewaiwitek@poczta.fm>\">e-m@ila</a>. Żadnego pytania nie pozostawimy bez odpowiedzi!</p>
+		<p>Jeżeli pragniesz dowiedzieć się czegoś więcej o Cavalier King Charles Spanielach, lub też o naszych pieskach, serdecznie zapraszamy! Możesz się z nami skontaktować telefonicznie - +48 730 177 128, +48 730 177 127, lub napisać do nas <a href=\"mailto:Pomeranian Beauties <ewaiwitek@poczta.fm>\">e-m@ila</a>. Żadnego pytania nie pozostawimy bez odpowiedzi!</p>
 		
 	</div>
 

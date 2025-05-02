@@ -18,7 +18,7 @@ print ("
 
 		<p>Both Witek and I are veterinary physician. We've been working with animals for many years and a few years in the Veterinary Inspection as well. Witek is currently retired and I'm also temporarily on a pension... Our education and experience are very helpful when we look after our dogs!</p>
 
-		<p>If you would like to find out more about the Cavalier King Charles Spaniels or about our dogs, please get in touch with us! You can call us on 0 48 58 691 3947 or +48 661 604 107, or drop us an <a href=\"mailto:Pomeranian Beauties <ewaiwitek@poczta.fm>\">e-m@il</a>. No question will remain unanswered!</p>
+		<p>If you would like to find out more about the Cavalier King Charles Spaniels or about our dogs, please get in touch with us! You can call us on +48 730 177 128, +48 730 177 127, or drop us an <a href=\"mailto:Pomeranian Beauties <ewaiwitek@poczta.fm>\">e-m@il</a>. No question will remain unanswered!</p>
 		
 	</div>
 
