@@ -15,6 +15,36 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>01.05.25</b> - Es ist schon wieder 2 Jahre und paar Tage vergangen, als wir das letzte mal aktuelle infos weiter gegeben haben. Und wieder moechte ich mich dafuer sehr entschuldigen und verspraeche, dass das nie wieder vorkommt. Ich hoffe, dass Michał, mein Sohn der unsere Webseite fuehrt, mir dabei helfen wird.<br /><br />
+
+Und was ist bei uns in der Zeit vorgekommen? Jambalaya Pomeranian Beauties, Tochter von Jefferson de la Geode und Unique Pomeranian Beauties ist in zwischen erwachsen geworden, hatte auch schon Babys und seit jetzt wird sie auch hier ihren indiwiduellen Link haben<br /><br />
+
+<center><img src=\"./psy/jamba0.jpg\" alt=\"\"></center><br />
+
+Vor einiger Zeit verstaerkte unsere Rueden Truppe Tyson de la Geode. Ueber ihn erfaehrt ihr auch alles aus seinem Link auf unserer Webseite.<br /><br />
+
+<center><img src=\"./psy/tyson0.jpg\" alt=\"\"></center><br />
+
+Und vor paar Monaten zug in unser Haus \"Hugo\" Emperor Brave Warrior Of The Night Nubra, ein lieber Kluger Airedale Terrier. Hugo ist ein sehr lebhafter Bube, mit Tyson spielen sie wie Sumo Sportler, aber den Welpen gegenueber ist Hugo wie eine beste Nanne.<br /><br />
+
+<center><img src=\"./hugodainty0.jpg\" alt=\"\"></center><br />
+
+Im Januar hat unsere Georgia On My Mind \"Giogio\" Pomeranian Beauties Babys auf die Welt gebracht. Es sind 8 Wonneproppen :-), 4 Maedchen und 4 Buben. Gluecklicher Papa ist unser Little Mec \"Maciek\" de la Geode :-)<br /><br />
+
+<center><img src=\"./giogiopuppies0.jpg\" alt=\"\"></center><br />
+
+Besucht uns von mal zu mal, wir laden herzlich ein. Bald gibt es Neuigkeiten!<br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>08.04.23</b> - Aus unserem letzten Wurf, der am 10. Februar 2023 geboren wurde, warten drei Rüden auf ihr liebevolles Zuhause und ihre Familien. Die Jungs haben sich bereits vollständig an ihre Hunde - und Menschenfamilie gewöhnt.<br /><br />
 
 <center>

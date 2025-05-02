@@ -15,6 +15,36 @@ if ($i <= $N) print ("
 
  <div class=\"news\">
  
+<b>01.05.25</b> - It has been two years since our last update.... And once again I would like to apologise to you for that, and promise that a break that long will not happen again!<br /><br />
+
+And what happened at our in the meantime? Well, our little girl Jambalaya Pomeranian Beauties, daughter of Jefferson de la Geode and Unique Pomeranian Beauties, grew up and had puppies of her own. From now on she also has her dedicated page on our website.<br /><br />
+
+<center><img src=\"./psy/jamba0.jpg\" alt=\"\"></center><br />
+
+Our boys team also got reinforced by the arrival of Tyson de la Geode. You can read about him on his dedicated page now too!<br /><br />
+
+<center><img src=\"./psy/tyson0.jpg\" alt=\"\"></center><br />
+
+Also, some time ago we were joined by \"Hugo\" Emperor Brave Warrior Of The Night Nubra, a lovely and clever Airedale Terrier. Hugo is a lively boy who loves to wrestle with Tyson, but he is also the most caring nanny for our puppies!<br /><br />
+
+<center><img src=\"./hugodainty0.jpg\" alt=\"\"></center><br />
+
+In January Georgia On My Mind \"Giogio\" Pomeranian Beauties gave us 8 puppies: 4 boys and 4 girls :-) The proud daddy of that little bunch is Little Mec \"Maciek\" de la Geode :-)<br /><br />
+
+<center><img src=\"./giogiopuppies0.jpg\" alt=\"\"></center><br />
+
+We hope you keep visiting our website! We will have more news for you soon!<br />
+
+</div>
+
+");
+
+$i=$i+1;
+
+if ($i <= $N) print ("
+
+ <div class=\"news\">
+ 
 <b>08.04.23</b> - Of the seven puppies born in our last litter (on 10.02.2023) three boys are still looking for their loving families and warm new homes. The boys are fully socialised with both people and other dogs!<br /><br />
 
 <center>
