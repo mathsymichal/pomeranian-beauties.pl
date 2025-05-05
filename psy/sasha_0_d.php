@@ -14,11 +14,13 @@ print ("
 
 <b>Gesundheitsbefunde:</b></br></br>
 - MVD: \"0\",</br>
-- Patellar Luxation – ohne Befund.</br></br>
+- Patellar Luxation – ohne Befund,</br>
+- SM (MRI Scan im Alter von 3 Jahren) - frei.</br></br>
 
 <b>DNA getestet:</b></br></br>
 - Episodic Falling (EF) - frei,</br>
-- Curly Coat Dry Eye Syndrome - frei.
+- Curly Coat Dry Eye Syndrome - frei,<br />
+- DM - frei.
 
 </div>
 

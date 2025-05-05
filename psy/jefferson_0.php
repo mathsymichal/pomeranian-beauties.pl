@@ -11,11 +11,13 @@ print ("
 <b>Wyniki badań:</b></br></br>
 - MVD: \"0\",</br>
 - Rzepka: bez zmian,</br>
-- Oczy: bez zmian.</br></br>
+- Oczy: bez zmian
+- SM (skan MRI w wieku 7 lat) - wolny.</br></br>
 
 <b>Testy DNA:</b></br></br>
 - Episodic Falling (EF) - wolny,</br>
-- Curly Coat Dry Eye Syndrome - wolny.
+- Curly Coat Dry Eye Syndrome - wolny,<br />
+- DM - wolny.
 
 </div>
 

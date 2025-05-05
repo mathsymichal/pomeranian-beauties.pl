@@ -14,11 +14,13 @@ print ("
 
 <b>Examinations' results:</b></br></br>
 - MVD: \"0\",</br>
-- Patellar Luxation – clear.</br></br>
+- Patellar Luxation – clear,</br>
+- SM (MRI scan at 3 years of age) - clear.</br></br>
 
 <b>DNA Tests:</b></br></br>
 - Episodic Falling (EF) - clear,</br>
-- Curly Coat Dry Eye Syndrome - clear.
+- Curly Coat Dry Eye Syndrome - clear,<br />
+- DM - clear.
 
 </div>
 
