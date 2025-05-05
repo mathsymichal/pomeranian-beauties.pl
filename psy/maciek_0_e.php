@@ -15,11 +15,12 @@ print ("
 <b>Examinations' results::</b></br>
 - Heart (MVD) – clear (Grade \"0\"),</br>
 - Patellar Luxation – clear,</br>
-- SM (skan MRI) - clear (\"A\").</br></br>
+- SM (MRI scan at 3 years of age) - clear.</br></br>
 
 <b>DNA Tests:</b></br>
 - Episodic Falling (EF) - clear,</br>
-- Curly Coat Dry Eye Syndrome - clear.
+- Curly Coat Dry Eye Syndrome - clear,<br />
+- DM - clear.
 
 </div>
 
